@@ -1,6 +1,7 @@
 package com.tv.television;
 
 import android.annotation.SuppressLint;
+import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
@@ -21,6 +22,15 @@ import com.google.android.exoplayer2.ui.PlayerView;
 import android.media.AudioManager;
 import android.view.MotionEvent;
 
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
+
 public class LiveTvActivity extends AppCompatActivity {
 
     PlayerView playerView;
@@ -28,7 +38,7 @@ public class LiveTvActivity extends AppCompatActivity {
     WebView webView;
 
     // Your streaming links
-    String[] urls = {
+    String[] urls_old = {
             "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
             "https://www.youtube.com/embed/TdwhCOFh9OA",   // Channel 2
             "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
@@ -73,7 +83,7 @@ public class LiveTvActivity extends AppCompatActivity {
     };
 
     // Must match length of urls[]
-    String[] types = {
+    String[] types_old = {
             "stream", // for m3u8 (ExoPlayer)
             "web",    // for YouTube (WebView iframe)
             "stream",
@@ -128,6 +138,10 @@ public class LiveTvActivity extends AppCompatActivity {
     LinearLayout loadingOverlay;
     TextView loadingText;
 
+    //load channel from API
+    ArrayList<String> urls = new ArrayList<>();
+    ArrayList<String> types = new ArrayList<>();
+
     @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -156,14 +170,16 @@ public class LiveTvActivity extends AppCompatActivity {
         // Left button → Previous channel
         btnLeft.setOnClickListener(v -> {
             currentIndex--;
-            if (currentIndex < 0) currentIndex = urls.length - 1;
+//            if (currentIndex < 0) currentIndex = urls.length - 1;
+
+            if (currentIndex < 0) currentIndex = urls.size() - 1;
             loadChannel(currentIndex);
         });
 
         // Right button → Next channel
         btnRight.setOnClickListener(v -> {
             currentIndex++;
-            if (currentIndex >= urls.length) currentIndex = 0;
+            if (currentIndex >= urls.size()) currentIndex = 0;
             loadChannel(currentIndex);
         });
 
@@ -243,19 +259,32 @@ public class LiveTvActivity extends AppCompatActivity {
             }
         });
         //loadinf animation end-----------------------------------------------
+
+        //load channel from API---------------------------
+        // init ExoPlayer, WebView etc.
+
+        if (!loadChannelsFromCache()) {
+            loadChannelsFromApi(); // If no cache, fetch fresh
+        } else {
+            loadChannelsFromApi(); // Still fetch latest in background
+        }
+        //End---------------------------
     }
 
     private void loadChannel(int index) {
 
         Toast.makeText(LiveTvActivity.this, "Channel "+index,Toast.LENGTH_LONG).show();
 
-        if (index < 0 || index >= urls.length) return;
+        if (index < 0 || index >= urls.size()) return;
 
         // Stop both before switching
         stopAllPlayers();
 
-        String url = urls[index];
-        String type = types[index];
+//        String url = urls[index];
+//        String type = types[index];
+
+        String url = urls.get(index);
+        String type = types.get(index);
 
         if ("stream".equals(type)) {
             // Show ExoPlayer, hide WebView
@@ -300,13 +329,13 @@ public class LiveTvActivity extends AppCompatActivity {
             switch (event.getKeyCode()) {
                 case KeyEvent.KEYCODE_DPAD_RIGHT: // Next
                     currentIndex++;
-                    if (currentIndex >= urls.length) currentIndex = 0;
+                    if (currentIndex >= urls.size()) currentIndex = 0;
                     loadChannel(currentIndex);
                     return true;
 
                 case KeyEvent.KEYCODE_DPAD_LEFT: // Previous
                     currentIndex--;
-                    if (currentIndex < 0) currentIndex = urls.length - 1;
+                    if (currentIndex < 0) currentIndex = urls.size() - 1;
                     loadChannel(currentIndex);
                     return true;
 
@@ -381,4 +410,87 @@ public class LiveTvActivity extends AppCompatActivity {
             }
         }
     //loading animation end
+
+    //load channel from API
+    private void loadChannelsFromApi() {
+        new Thread(() -> {
+            try {
+                URL url = new URL("https://raw.githubusercontent.com/mdshahinurislamm/television/refs/heads/master/assets/channels.json");
+                HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+                conn.setRequestMethod("GET");
+                conn.connect();
+
+                BufferedReader reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+                StringBuilder result = new StringBuilder();
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    result.append(line);
+                }
+                reader.close();
+
+                String jsonString = result.toString();
+
+                runOnUiThread(() -> {
+                    try {
+                        JSONObject response = new JSONObject(jsonString);
+                        parseChannelsJson(response);   // ✅ your parser
+                        saveChannelsToCache(jsonString); // ✅ caching
+                    } catch (Exception e) {
+                        e.printStackTrace();
+                    }
+                });
+
+            } catch (Exception e) {
+                e.printStackTrace();
+                runOnUiThread(() -> {
+                    if (!loadChannelsFromCache()) {
+                        Toast.makeText(this, "Failed to load channels", Toast.LENGTH_SHORT).show();
+                    }
+                });
+            }
+        }).start();
+    }
+
+
+    //Save Channels to Cache-------------------------------------------------
+    private void saveChannelsToCache(String jsonString) {
+        SharedPreferences prefs = getSharedPreferences("channels_cache", MODE_PRIVATE);
+        SharedPreferences.Editor editor = prefs.edit();
+        editor.putString("channels_json", jsonString);
+        editor.apply();
+    }
+    private boolean loadChannelsFromCache() {
+        SharedPreferences prefs = getSharedPreferences("channels_cache", MODE_PRIVATE);
+        String cachedJson = prefs.getString("channels_json", null);
+
+        if (cachedJson != null) {
+            try {
+                JSONObject response = new JSONObject(cachedJson);
+                parseChannelsJson(response);
+                return true; // ✅ Cache loaded successfully
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+        return false;
+    }
+    private void parseChannelsJson(JSONObject response) {
+        urls.clear();
+        types.clear();
+
+        try {
+            JSONArray channels = response.getJSONArray("channels");
+            for (int i = 0; i < channels.length(); i++) {
+                JSONObject obj = channels.getJSONObject(i);
+                urls.add(obj.getString("url"));
+                types.add(obj.getString("type"));
+            }
+            loadChannel(0); // ✅ Start first channel
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+
 }
