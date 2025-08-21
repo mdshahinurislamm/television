@@ -81,4 +81,6 @@
         android:visibility="gone"
         android:text="Volume: 50%" />
 
+    <include layout="@layout/layout_loading"/>
+
 </FrameLayout>

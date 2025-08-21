@@ -1,32 +1,24 @@
 package com.tv.television;
 
-
 import android.annotation.SuppressLint;
+import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
-import android.os.Handler;
 import android.view.KeyEvent;
 import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
-import android.widget.FrameLayout;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.MediaItem;
+import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.ui.PlayerView;
-
-import android.content.Context;
 import android.media.AudioManager;
-import android.view.GestureDetector;
 import android.view.MotionEvent;
 
 public class LiveTvActivity extends AppCompatActivity {
@@ -132,6 +124,10 @@ public class LiveTvActivity extends AppCompatActivity {
     AudioManager audioManager;
     float startY;
 
+    //loadingOverlay
+    LinearLayout loadingOverlay;
+    TextView loadingText;
+
     @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -153,7 +149,7 @@ public class LiveTvActivity extends AppCompatActivity {
 
         loadChannel(currentIndex);
 
-        //mobile next previw
+        //mobile next previw-----------------------------------
         Button btnLeft = findViewById(R.id.btnLeft);
         Button btnRight = findViewById(R.id.btnRight);
         Button btnCenter = findViewById(R.id.btnCenter);
@@ -187,9 +183,9 @@ public class LiveTvActivity extends AppCompatActivity {
                 );
             }
         });
-        //end mobile preview
+        //end mobile preview---------------------------------------------
 
-        //volume +-
+        //volume +--------------------------------------------------------
         touchOverlay = findViewById(R.id.touchOverlay);
         volumeIndicator = findViewById(R.id.volumeIndicator);
         audioManager = (AudioManager) getSystemService(AUDIO_SERVICE);
@@ -219,7 +215,34 @@ public class LiveTvActivity extends AppCompatActivity {
                 return false;
             }
         });
-        //volume+- end
+        //volume+- end-----------------------------------------------
+
+        //loading animation start------------------------------------
+        loadingOverlay = findViewById(R.id.loadingLayout);
+        loadingText = findViewById(R.id.loadingText);
+        // ExoPlayer listener
+        player.addListener(new Player.Listener() {
+            @Override
+            public void onPlaybackStateChanged(int state) {
+                if (state == Player.STATE_BUFFERING) {
+                    showLoading("Loading Channel...");
+                } else if (state == Player.STATE_READY || state == Player.STATE_ENDED) {
+                    hideLoading();
+                }
+            }
+        });
+        // WebView listener
+        webView.setWebViewClient(new WebViewClient() {
+            @Override
+            public void onPageStarted(WebView view, String url, Bitmap favicon) {
+                showLoading("Loading Channel...");
+            }
+            @Override
+            public void onPageFinished(WebView view, String url) {
+                hideLoading();
+            }
+        });
+        //loadinf animation end-----------------------------------------------
     }
 
     private void loadChannel(int index) {
@@ -287,7 +310,7 @@ public class LiveTvActivity extends AppCompatActivity {
                     loadChannel(currentIndex);
                     return true;
 
-//----------------------------
+            //----------------------------Remote OK button
                 case KeyEvent.KEYCODE_DPAD_CENTER: // Remote OK button
                 case KeyEvent.KEYCODE_ENTER:       // Enter key
                     if (playerView.getVisibility() == PlayerView.VISIBLE) {
@@ -305,7 +328,7 @@ public class LiveTvActivity extends AppCompatActivity {
                         );
                     }
                     return true;
-//                    -------------------
+                //-------------------
 
 
             }
@@ -334,4 +357,28 @@ public class LiveTvActivity extends AppCompatActivity {
         volumeIndicator.setVisibility(View.VISIBLE);
     }
     // Adjust volume end
+
+    //loading animation start-------------------------------------
+//    private void showLoading(String message) {
+//        loadingOverlay.setVisibility(View.VISIBLE);
+//        loadingText.setText(message);
+//    }
+//    private void hideLoading() {
+//        loadingOverlay.setVisibility(View.GONE);
+//    }
+        private long loadingStartTime = 0;
+        private void showLoading(String message) {
+            loadingOverlay.setVisibility(View.VISIBLE);
+            loadingText.setText(message);
+            loadingStartTime = System.currentTimeMillis();
+        }
+        private void hideLoading() {
+            long elapsed = System.currentTimeMillis() - loadingStartTime;
+            if (elapsed < 2000) {
+                loadingOverlay.postDelayed(() -> loadingOverlay.setVisibility(View.GONE), 2000 - elapsed);
+            } else {
+                loadingOverlay.setVisibility(View.GONE);
+            }
+        }
+    //loading animation end
 }

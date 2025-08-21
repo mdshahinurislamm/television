@@ -10,4 +10,8 @@
     </style>
 
     <style name="Theme.Television" parent="Base.Theme.Television" />
+
+    <style name="CustomProgressBar" parent="Theme.AppCompat">
+        <item name="colorAccent">#FFCC00</item> <!-- Yellow spinner -->
+    </style>
 </resources>
