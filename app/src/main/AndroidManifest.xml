@@ -16,18 +16,18 @@
         android:banner="@drawable/todo"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.Television">
         <activity
-            android:name=".LiveTvActivity"
+            android:name=".MainActivity"
             android:exported="false"
             android:screenOrientation="landscape"
             tools:ignore="DiscouragedApi"/>
         <activity
-            android:name=".MainActivity"
+            android:name=".LiveTvActivity"
             android:exported="true"
             android:screenOrientation="landscape"
             tools:ignore="DiscouragedApi">

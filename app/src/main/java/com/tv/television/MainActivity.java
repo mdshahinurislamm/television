@@ -107,7 +107,8 @@ public class MainActivity extends AppCompatActivity {
             webView.goBack();
         } else {
             //super.onBackPressed();
-            finish();
+            //finish();
+            finishAffinity(); // closes all activities
         }
     }
 
