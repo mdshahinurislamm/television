@@ -1,80 +1,357 @@
 {
-"channels": [
-   {
-      "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",         
+  "channels": [
+    {
+      "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",   
+      "name": "Duronto TV",  
+      "type": "stream"
+    },
+    {
+      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",      
       "type": "stream"
     },
     {
       "url": "https://www.youtube.com/embed/TdwhCOFh9OA",
-      "type": "web",
-      "channel": "somoy"
+      "type": "web"
     },
     {
-      "url": "https://www.youtube.com/embed/tDf7qJx-WTs",
-      "type": "web",
-      "channel": "jamuna tv"
-    },
-  {
-    "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
-    "type": "stream",
-    "channel": "news india today"
-  },
-  {
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
-    "type": "stream",
-    "channel": "india news"
-  },
-  {
-    "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
-    "type": "stream","channel":"ndtv24x7"
-  },
-  {
-    "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
-    "type": "stream" 
-  },
-  {
-    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-    "type": "stream", "channel":"jajira"
-  },
-    {
-      "url": "https://www.youtube.com/embed/MphV51YwroY",
-      "type": "web",
-      "channel": "NDEPENDENT TV "
+      "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/qvnhDWEzN-g",
-      "type": "web",
-      "channel": "Channel i "
+      "url": "http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/C7qv5Pfxmcc",
-      "type": "web",
-      "channel": "NEWS24 "
+      "url": "http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/0-sJAZCFlVI",
-      "type": "web",
-      "channel": "EKHON TV "
+      "url": "http://playhls.media.nic.in/live/vyas-360p/index.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/P2f_SltOlLE",
-      "type": "web",
-      "channel": "ATN News "
+      "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/3u5QVa0utE8",
-      "type": "web",
-      "channel": "EKATTOR TV "
+      "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+      "type": "stream"
     },
     {
-      "url": "https://www.youtube.com/embed/OzP1HK-5ijg",
-      "type": "web",
-      "channel": "Rtv Live "
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://playhls.media.nic.in/live/vyas/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://chostv.mobie.in/choos/sports/beinxtra.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+      "type": "stream"
     },
     {
       "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
-      "type": "stream",
-      "channel": "desh-1"
+      "type": "stream"
+    },
+    {
+      "url": "https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://feeds.intoday.in/aajtak/api/master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://thelegitpro.in/hls10/jansetunews/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://thelegitpro.in/hls15/tv27news/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://cdnplay.livecast.io/560828843292539228453915.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://streams.sofast.tv/ptnr-yupptv/title-COLOUR-BLIND-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://hls.media.nic.in/hls/live/rstv/rstv.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8",
+      "type": "stream"
     },
     {
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -82,35 +359,7 @@
     },
     {
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
-      "type": "stream","channel":"action boliwood"
-    },  
-    {
-      "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
-      "type": "stream" ,"channel":"star jolsha"
-    },
-    {
-      "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
-      "type": "stream",
-      "channel":"aribi"
-    },
-    {
-      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
-      "type": "stream","channel":"action boliwood"
-    },
-    {
-      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
       "type": "stream"
-    },    
-    {
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
-      "type": "stream",
-      "channel":"DW"
-    },
-    {
-      "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
-      "type": "stream",
-      "channel":"BBC"
     }
-  
   ]
 }
