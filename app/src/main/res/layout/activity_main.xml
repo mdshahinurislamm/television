@@ -23,6 +23,27 @@
                 android:padding="8dp">
 
                 <Button
+                    android:onClick="btnMySite"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Kids TV" />
+
+                <Button
+                    android:onClick="btnAllTV"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="All Online TV" />
+
+                <Button
+                    android:id="@+id/btnMySite"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:text="Movies" />
+
+                <Button
                     android:id="@+id/btnMytv"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -42,19 +63,7 @@
                     android:layout_marginTop="10dp"
                     android:text="YouTube" />
 
-                <Button
-                    android:id="@+id/btnMySite"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:text="Movies" />
 
-                <Button
-                    android:onClick="btnMySite"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:text="Online TV" />
 
             </LinearLayout>
         </ScrollView>

@@ -22,10 +22,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Television">
         <activity
+            android:name=".AllTv"
+            android:screenOrientation="landscape"
+            tools:ignore="DiscouragedApi"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false"
             android:screenOrientation="landscape"
-            tools:ignore="DiscouragedApi"/>
+            tools:ignore="DiscouragedApi" />
         <activity
             android:name=".LiveTvActivity"
             android:exported="true"

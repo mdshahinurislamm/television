@@ -116,4 +116,9 @@ public class MainActivity extends AppCompatActivity {
         Intent int1 = new Intent(MainActivity.this, LiveTvActivity.class);
         startActivity(int1);
     }
+
+    public void btnAllTV(View view) {
+        Intent int1 = new Intent(MainActivity.this, AllTv.class);
+        startActivity(int1);
+    }
 }
