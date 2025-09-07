@@ -1,12 +1,12 @@
 {
 "channels": [
-// child
+
   {
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",   
       "name": "Duronto TV",  
       "type": "stream"
     },
-// news bangla
+
     {
       "url": "https://www.youtube.com/embed/TdwhCOFh9OA",
       "type": "web",
@@ -17,7 +17,7 @@
       "type": "web",
       "channel": "jamuna tv"
     },
-//foren news
+
   {
     "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
     "type": "stream",
@@ -42,7 +42,7 @@
     "type": "stream", "channel":"jajira"
   },
 
-// intertentment  
+
     {
       "url": "https://www.youtube.com/embed/MphV51YwroY",
       "type": "web",
@@ -83,7 +83,7 @@
       "type": "stream",
       "channel": "desh-1"
     },
-    // hindi-arobi intertenment
+ 
 
     {
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
@@ -102,7 +102,7 @@
       "type": "stream",
       "channel":"aribi"
     },
-    // english Interment
+
 
     {
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
