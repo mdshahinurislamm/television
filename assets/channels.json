@@ -1,12 +1,9 @@
 {
 "channels": [
-
-  {
-      "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",   
-      "name": "Duronto TV",  
+   {
+      "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",         
       "type": "stream"
     },
-
     {
       "url": "https://www.youtube.com/embed/TdwhCOFh9OA",
       "type": "web",
@@ -17,7 +14,6 @@
       "type": "web",
       "channel": "jamuna tv"
     },
-
   {
     "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
     "type": "stream",
@@ -32,7 +28,6 @@
     "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
     "type": "stream","channel":"ndtv24x7"
   },
-
   {
     "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
     "type": "stream" 
@@ -41,8 +36,6 @@
     "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
     "type": "stream", "channel":"jajira"
   },
-
-
     {
       "url": "https://www.youtube.com/embed/MphV51YwroY",
       "type": "web",
@@ -83,8 +76,6 @@
       "type": "stream",
       "channel": "desh-1"
     },
- 
-
     {
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
       "type": "stream"
@@ -102,8 +93,6 @@
       "type": "stream",
       "channel":"aribi"
     },
-
-
     {
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
       "type": "stream","channel":"action boliwood"
@@ -111,8 +100,7 @@
     {
       "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
       "type": "stream"
-    },
-    
+    },    
     {
       "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
       "type": "stream",
