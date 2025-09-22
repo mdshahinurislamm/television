@@ -10,14 +10,14 @@
       "channel": "somoy"
     },
     {
-      "url": "https://www.youtube.com/embed/tDf7qJx-WTs",
-      "type": "web",
-      "channel": "jamuna tv"
+      "url": "https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8",
+      "type": "stream",
+      "channel": "MAASRANGA tv"
     },
     {
-      "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
-      "type": "stream",
-      "channel": "news india today"
+      "url": "https://www.youtube.com/watch?v=p0gxDHF2ErI",
+      "type": "web",
+      "channel": "NTV"
     },
     {
       "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
