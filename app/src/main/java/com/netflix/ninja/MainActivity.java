@@ -18,7 +18,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     WebView webView;
-    Button btnMytv, btnGoogle, btnYouTube, btnMySite;
+    Button btnMytv, btnGoogle, btnYouTube, btnMySite,btnBiliTV;
     FrameLayout fullScreenContainer;
     View customView;
     WebChromeClient.CustomViewCallback customViewCallback;
@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         btnGoogle = findViewById(R.id.btnGoogle);
         btnYouTube = findViewById(R.id.btnYouTube);
         btnMySite = findViewById(R.id.btnMySite);
+        btnBiliTV = findViewById(R.id.btnBiliTV);
         fullScreenContainer = findViewById(R.id.fullScreenContainer);
 
         // Configure WebView
@@ -87,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
         btnGoogle.setOnClickListener(v -> webView.loadUrl("https://www.google.com"));
         btnYouTube.setOnClickListener(v -> webView.loadUrl("https://www.youtube.com"));
         btnMySite.setOnClickListener(v -> webView.loadUrl("https://server2.ftpbd.net"));
+        btnBiliTV.setOnClickListener(v -> webView.loadUrl("https://www.bilibili.tv/"));
 
         getOnBackPressedDispatcher().addCallback(this, backPressedCallback);
     }
