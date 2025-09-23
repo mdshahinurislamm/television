@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.tv.television'
+    namespace 'com.netflix.ninja'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.tv.television"
+        applicationId "com.netflix.ninja"
         minSdk 21
         targetSdk 36
         versionCode 1

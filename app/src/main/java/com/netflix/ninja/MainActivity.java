@@ -1,10 +1,12 @@
-package com.tv.television;
+package com.netflix.ninja;
 
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.WindowManager;
+import android.webkit.CookieManager;
 import android.webkit.WebChromeClient;
+import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -45,8 +47,59 @@ public class MainActivity extends AppCompatActivity {
 
         webSettings.setMediaPlaybackRequiresUserGesture(false);
 
+        // Allow mixed content if needed
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            webSettings.setMixedContentMode(WebSettings.MIXED_CONTENT_ALWAYS_ALLOW);
+        }
+
+        // Enable cookies
+        CookieManager cookieManager = CookieManager.getInstance();
+        cookieManager.setAcceptCookie(true);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            cookieManager.setAcceptThirdPartyCookies(webView, true);
+        }
+
+        // Set custom User-Agent (pretend to be Chrome)
+        webSettings.setUserAgentString(
+                "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 " + "(KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36"
+        );
+
         // Keep navigation inside WebView
-        webView.setWebViewClient(new WebViewClient());
+        //webView.setWebViewClient(new WebViewClient());
+        webView.setWebViewClient(new WebViewClient() {
+            @Override
+            public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
+                String url = request.getUrl().toString();
+                return handleCustomScheme(view, url);
+            }
+
+            @Override
+            @SuppressWarnings("deprecation")
+            public boolean shouldOverrideUrlLoading(WebView view, String url) {
+                return handleCustomScheme(view, url);
+            }
+
+            @Override
+            public void onPageStarted(WebView view, String url, android.graphics.Bitmap favicon) {
+                super.onPageStarted(view, url, favicon);
+
+                // If page navigation tries to go to bstar:// or intent:// → stop and reload bilibili web
+                if (url.startsWith("bstar://") || url.startsWith("intent://")) {
+                    view.stopLoading();
+                    view.loadUrl("https://www.bilibili.tv/en");
+                }
+            }
+
+            private boolean handleCustomScheme(WebView view, String url) {
+                if (url.startsWith("bstar://") || url.startsWith("intent://")) {
+                    view.loadUrl("https://www.bilibili.tv/en"); // force back to web
+                    return true; // we handled it
+                }
+                return false; // let normal URLs load
+            }
+        });
+
+
 
         // Enable fullscreen video support
         webView.setWebChromeClient(new WebChromeClient() {

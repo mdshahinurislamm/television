@@ -1,4 +1,4 @@
-package com.tv.television;
+package com.netflix.ninja;
 
 import org.junit.Test;
 
