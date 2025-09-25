@@ -1,0 +1,832 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="9134" tvg-id="" tvg-name="BIGG BOSS 24X7" tvg-logo="" group-title="BDIX | ENTERTAINMENT",BIGG BOSS 24X7
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSAZTfnUZJy4FU3pXs1oCY0/m3u8
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="BIGG BOSS 24X7" tvg-logo="" group-title="CDN | ENTERTAINMENT",BIGG BOSS 24X7
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdiIqg8oZ1f3j87UwNneuWw/m3u8
+#EXTINF:-1 xui-id="9907" tvg-id="" tvg-name="IND | Colors FHD" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="BDIX | ENTERTAINMENT",IND | Colors FHD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYOtJhxT0DJKcT4VYrOAwkQ/m3u8
+#EXTINF:-1 xui-id="2571" tvg-id="" tvg-name="IND | Colors HD" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="BDIX | ENTERTAINMENT",IND | Colors HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY3U0zsGEkl11Vg-E5Wa128/m3u8
+#EXTINF:-1 xui-id="9161" tvg-id="JALSHA" tvg-name="IND | Star Jalsha HD" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="BDIX | INDIAN BANGLA",IND | Star Jalsha HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVWArAALO2y00hZyHrsx6N8/m3u8
+#EXTINF:-1 xui-id="9650" tvg-id="" tvg-name="IND | Star Jalsha HD." tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="BDIX | INDIAN BANGLA",IND | Star Jalsha HD.
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeo5QVt98TRH0VqqNIAbAPU/m3u8
+#EXTINF:-1 xui-id="7982" tvg-id="" tvg-name="Star Jalsha" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="CDN | INDIAN BANGLA",Star Jalsha
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZamKvc9yKcDAvKHc4Lo5Eoc/m3u8
+#EXTINF:-1 xui-id="494" tvg-id="JALSHA" tvg-name="Star Jalsha HD" tvg-logo="https://amadertv.top:8880/images/cc3688457cac49ef197d16ea8c9c8ad5.png" group-title="CDN | INDIAN BANGLA",Star Jalsha HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfOGgtisnvHLSraHQEHisL0/m3u8
+#EXTINF:-1 xui-id="11" tvg-id="ZBNGL" tvg-name="IND | Zee Bangla HD" tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="BDIX | INDIAN BANGLA",IND | Zee Bangla HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf-qq0iYiwDfHceBrei4isk/m3u8
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="IND | Zee bangla HD." tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="BDIX | INDIAN BANGLA",IND | Zee bangla HD.
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZX66xRSpabXPF9ii18-WQMU/m3u8
+#EXTINF:-1 xui-id="3705" tvg-id="" tvg-name="Zee Bangla HD Global" tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="CDN | INDIAN BANGLA",Zee Bangla HD Global
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfl7DkucTavHTbsRJJWx_o0/m3u8
+#EXTINF:-1 xui-id="9431" tvg-id="ZBNGL" tvg-name="Zee Bangla SD" tvg-logo="https://amadertv.top:8880/images/daf35a724a656f6653c302d606974a75.png" group-title="CDN | INDIAN BANGLA",Zee Bangla SD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe2_37eT1af3zlD86tI0KA0/m3u8
+#EXTINF:-1 xui-id="1521" tvg-id="" tvg-name="IND | Akash Aath.." tvg-logo="https://amadertv.top:8880/images/4fc3946805a319eed90ed1fa4f46d18d.png" group-title="BDIX | INDIAN BANGLA",IND | Akash Aath..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQt_ZT2-BLa1vv28TjBcPRg/m3u8
+#EXTINF:-1 xui-id="1515" tvg-id="" tvg-name="IND | Colors Bangla Cinema.." tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="BDIX | INDIAN BANGLA",IND | Colors Bangla Cinema..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUwCbc6D7l_OAGe1jvbaHKw/m3u8
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="IND | Zee Bangla Cinema HD.." tvg-logo="https://amadertv.top:8880/images/9ba491b5a277bce8d2f23bcb92a7a0bf.png" group-title="BDIX | INDIAN BANGLA",IND | Zee Bangla Cinema HD..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaw3TfcvAu3Jf3i6AreDqHo/m3u8
+#EXTINF:-1 xui-id="2592" tvg-id="" tvg-name="IND | Colors Bangla HD.." tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="BDIX | INDIAN BANGLA",IND | Colors Bangla HD..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYxU5_lUYZvfk0sn2XX9fQU/m3u8
+#EXTINF:-1 xui-id="2582" tvg-id="" tvg-name="IND | Enterr 10 Bangla.." tvg-logo="https://amadertv.top:8880/images/cab550b9f4525f629e0e9d60d92062d9.png" group-title="BDIX | INDIAN BANGLA",IND | Enterr 10 Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZayUJ2xjXUqf8IbzIs3ozkE/m3u8
+#EXTINF:-1 xui-id="9560" tvg-id="" tvg-name="IND | Jalsha Movie HD" tvg-logo="https://amadertv.top:8880/images/7b56b95ae6b670652b7b990e79fe7c07.png" group-title="BDIX | INDIAN BANGLA",IND | Jalsha Movie HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRcq6NQlYQapT3usid2uDV4/m3u8
+#EXTINF:-1 xui-id="9582" tvg-id="" tvg-name="IND | Khushboo Bangla.." tvg-logo="https://amadertv.top:8880/images/0a726aab3b5e7259859705d84f7d19b6.png" group-title="BDIX | INDIAN BANGLA",IND | Khushboo Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZaYGEkm5e0ElUrvjz_h1FQ/m3u8
+#EXTINF:-1 xui-id="9407" tvg-id="" tvg-name="IND | Orange Bangla" tvg-logo="" group-title="BDIX | INDIAN BANGLA",IND | Orange Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdBc4crp5wUxCAgzw21PjXg/m3u8
+#EXTINF:-1 xui-id="9489" tvg-id="" tvg-name="IND | RPLUS GOLD" tvg-logo="" group-title="BDIX | INDIAN BANGLA",IND | RPLUS GOLD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjUhbjR8zi1uHH8R-zo6fE/m3u8
+#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="IND | Ruposhi Bangla.." tvg-logo="https://amadertv.top:8880/images/3c22157d03f170dd383e4c851487171c.png" group-title="BDIX | INDIAN BANGLA",IND | Ruposhi Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdW69_7Ce6eCOq6_VhfXDak/m3u8
+#EXTINF:-1 xui-id="3169" tvg-id="" tvg-name="IND | Sangeet Bangla.." tvg-logo="https://amadertv.top:8880/images/4dc6a75db6879a3cf234d600fdec3f91.png" group-title="BDIX | INDIAN BANGLA",IND | Sangeet Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSINBlbjECKg82_RBGjxNm8/m3u8
+#EXTINF:-1 xui-id="3157" tvg-id="" tvg-name="IND | Sony Aath.." tvg-logo="https://amadertv.top:8880/images/27a90e36876babfde99d60c651c32799.png" group-title="BDIX | INDIAN BANGLA",IND | Sony Aath..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQI_vN2RMTomd9fCJtA-PFM/m3u8
+#EXTINF:-1 xui-id="9559" tvg-id="" tvg-name="IND | Sun Bangla.." tvg-logo="https://amadertv.top:8880/images/4c51104a81300a5af27174e46970d789.png" group-title="BDIX | INDIAN BANGLA",IND | Sun Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTUUaxolEllv75dUEqG4xYM/m3u8
+#EXTINF:-1 xui-id="8753" tvg-id="" tvg-name="IND | Tara Bangla cinema" tvg-logo="https://amadertv.top:8880/images/079cc0026e17d80d37e7b76d746e74eb.png" group-title="BDIX | INDIAN BANGLA",IND | Tara Bangla cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSU0IzAqcxS0WHxmcNjYxAY/m3u8
+#EXTINF:-1 xui-id="9886" tvg-id="" tvg-name="& Flix HD" tvg-logo="https://amadertv.top:8880/images/bdc87d64e9775db7f62e1c2244e37407.png" group-title="BDIX | ENGLISH ENTERTAINMENT",& Flix HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdvXgnFVNhGPymdzC1byl5w/m3u8
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="& Picture HD" tvg-logo="https://amadertv.top:8880/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="CDN | INDIAN MOVIES",& Picture HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSR7nLT2Kwsz34JX5AAmOoc/m3u8
+#EXTINF:-1 xui-id="9883" tvg-id="" tvg-name="& Prive HD" tvg-logo="https://amadertv.top:8880/images/4e5da27adbc4de96b8f44802e9673849.png" group-title="BDIX | ENGLISH ENTERTAINMENT",& Prive HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaj_LkgWaJBV8BwOTuqgMnc/m3u8
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="& Tv HD" tvg-logo="https://amadertv.top:8880/images/c540d8ab8b5773c4e8c1905a62939e98.png" group-title="CDN | ENTERTAINMENT",& Tv HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDTnmVIS0DUdbFdcVY1bmU/m3u8
+#EXTINF:-1 xui-id="2290" tvg-id="" tvg-name="92 News HD (720p)" tvg-logo="https://i.imgur.com/XqQOUi7.png" group-title="CDN | PAKISTAN",92 News HD (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZceYtDLt2qiC3kr37xSAjos/m3u8
+#EXTINF:-1 xui-id="29" tvg-id="" tvg-name="9x Jalwa" tvg-logo="https://amadertv.top:8880/images/f771cf0680c476d1b73fa674732b640f.png" group-title="CDN | MUSIC",9x Jalwa
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbPDIoTB99QED0p7f2206Zs/m3u8
+#EXTINF:-1 xui-id="1505" tvg-id="" tvg-name="9X Jhakaas" tvg-logo="https://amadertv.top:8880/images/15cefe81cc6197165925f6d5ead38553.png" group-title="CDN | MUSIC",9X Jhakaas
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVeqDz6DbZ9NGmKF1Fl8dWA/m3u8
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="9x Tashaan" tvg-logo="" group-title="CDN | MUSIC",9x Tashaan
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY4fMyL6V2TRiHZxMHa9XRI/m3u8
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="9xm" tvg-logo="https://amadertv.top:8880/images/3fe2f9c39f72a6863f2d08aa76200cdf.png" group-title="CDN | MUSIC",9xm
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYjb2dizVK_dNSLJSeXPHoo/m3u8
+#EXTINF:-1 xui-id="473" tvg-id="" tvg-name="A Plus" tvg-logo="" group-title="CDN | PAKISTAN",A Plus
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfaTO5ICMm_DfCLoNEyrnoA/m3u8
+#EXTINF:-1 xui-id="386" tvg-id="" tvg-name="Aaj Tak news" tvg-logo="" group-title="CDN | International News",Aaj Tak news
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXwCRQsUhiiRwn2NOIUy-5g/m3u8
+#EXTINF:-1 xui-id="2649" tvg-id="" tvg-name="Aapka Colors" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Aapka Colors
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWVuonwwMzIK1Dyz9BZDnMc/m3u8
+#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="CDN | International News",ABC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTWL7ITNmCmCsoOk4qR-FlQ/m3u8
+#EXTINF:-1 xui-id="2292" tvg-id="" tvg-name="ABN Urdu (540p)" tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="CDN | PAKISTAN",ABN Urdu (540p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVARTS5nCh1141uOBThSpaw/m3u8
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="ABP Ananda" tvg-logo="https://amadertv.top:8880/images/34312c8a65f9583aa8095b6a9fbac101.png" group-title="CDN | INDIAN BANGLA",ABP Ananda
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYbNapWs2DFZhWcxA9ctqzc/m3u8
+#EXTINF:-1 xui-id="3578" tvg-id="" tvg-name="Akash Aath" tvg-logo="https://amadertv.top:8880/images/4fc3946805a319eed90ed1fa4f46d18d.png" group-title="CDN | INDIAN BANGLA",Akash Aath
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRu7_Tcxs47sKldXtamYxck/m3u8
+#EXTINF:-1 xui-id="2293" tvg-id="" tvg-name="Al Ehsaan TV (720p)" tvg-logo="https://amadertv.top:8880/images/6e1d4e2bb0949ceb491765b7c416de0f.png" group-title="CDN | PAKISTAN",Al Ehsaan TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZRsZe8vgRkA80w4juUHysk/m3u8
+#EXTINF:-1 xui-id="9241" tvg-id="" tvg-name="AL Jajeera" tvg-logo="https://amadertv.top:8880/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="CDN | International News",AL Jajeera
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT7NUlQY7BJt5gUcQsdHlXo/m3u8
+#EXTINF:-1 xui-id="9642" tvg-id="" tvg-name="Amar Bangla" tvg-logo="https://amadertv.top:8880/images/a58a97588099b601f5a213de6036d9ee.jpg" group-title="CDN | INDIAN BANGLA",Amar Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVeISgqMDtZkLOmdHR7PbNY/m3u8
+#EXTINF:-1 xui-id="1727" tvg-id="" tvg-name="Amar Digital" tvg-logo="https://amadertv.top:8880/images/a4b0bae2e633af83c1b900e6574afe8f.jpg" group-title="CDN | INDIAN BANGLA",Amar Digital
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYnmzNgFlAhFB8xC4yDXKjQ/m3u8
+#EXTINF:-1 xui-id="44" tvg-id="" tvg-name="Ananda Tv D2H" tvg-logo="https://amadertv.top:8880/images/3faba8f3f9889724cd4856caad42efe1.png" group-title="CDN | BANGLADESH",Ananda Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUxZOOgaXrlSyNrER1jgUU0/m3u8
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://amadertv.top:8880/images/0bbfc806f5ab766e049cc9f848823196.png" group-title="CDN | INFOTAINMENT",Animal Planet HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbz5JVeqHN3BA24bavrUvmc/m3u8
+#EXTINF:-1 xui-id="1850" tvg-id="" tvg-name="APN" tvg-logo="" group-title="CDN | International News",APN
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU5QNrTMDcn7U48zICH8eKw/m3u8
+#EXTINF:-1 xui-id="505" tvg-id="" tvg-name="Ary Digital" tvg-logo="" group-title="CDN | PAKISTAN",Ary Digital
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZewzol4XzTOQmoDmYymTDn4/m3u8
+#EXTINF:-1 xui-id="9380" tvg-id="" tvg-name="Ary Musik" tvg-logo="" group-title="CDN | MUSIC",Ary Musik
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVae_9CQeK-QIpFgeHP9zBA/m3u8
+#EXTINF:-1 xui-id="9581" tvg-id="" tvg-name="Ary News" tvg-logo="" group-title="CDN | PAKISTAN",Ary News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9YJEcLuALB8kcrQsqRt8w/m3u8
+#EXTINF:-1 xui-id="146" tvg-id="" tvg-name="Ary Zindegi" tvg-logo="" group-title="CDN | PAKISTAN",Ary Zindegi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeNPJB4-pIRYGFL1jnBw-qY/m3u8
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="Asian TV HD D2H" tvg-logo="https://amadertv.top:8880/images/87a20a33c0ff26d360e609c054dbc329.png" group-title="CDN | BANGLADESH",Asian TV HD D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQVkYOxPE8Wp3b6lrNBulAM/m3u8
+#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="ATN Bangla D2H" tvg-logo="https://amadertv.top:8880/images/06459ac3880487fe7aa5df85f099a004.png" group-title="CDN | BANGLADESH",ATN Bangla D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSn7hXToA7Y7ioxlrHmPd2I/m3u8
+#EXTINF:-1 xui-id="9472" tvg-id="" tvg-name="ATN News 24" tvg-logo="https://amadertv.top:8880/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="CDN | BANGLADESHI NEWS",ATN News 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaA78N6VT_2aoI9TpZAg1CE/m3u8
+#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="ATN News D2H" tvg-logo="https://amadertv.top:8880/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="CDN | BANGLADESHI NEWS",ATN News D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXjEeHO8CMCCVsZ7BQoh6DM/m3u8
+#EXTINF:-1 xui-id="1853" tvg-id="" tvg-name="Atrangi Tv" tvg-logo="https://amadertv.top:8880/images/8887613c4b219ce67c29967deec48c19.png" group-title="CDN | ENTERTAINMENT",Atrangi Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXGd22jYUXT7013VagDiJS8/m3u8
+#EXTINF:-1 xui-id="2247" tvg-id="" tvg-name="ATV" tvg-logo="" group-title="CDN | PAKISTAN",ATV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVZGtJ2gUtqbljNjRsM1ZQU/m3u8
+#EXTINF:-1 xui-id="2295" tvg-id="" tvg-name="aurLife HD (614p)" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="CDN | PAKISTAN",aurLife HD (614p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcbLyC7267PJvHxhrsepS9g/m3u8
+#EXTINF:-1 xui-id="9938" tvg-id="" tvg-name="AXN" tvg-logo="" group-title="CDN | English Movie & Entertainment",AXN
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaQp87UgYdE2R8pbkw9vTXo/m3u8
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="B4u Kadak" tvg-logo="https://amadertv.top:8880/images/d41983b5b1c974ef7872e250264ea690.png" group-title="CDN | INDIAN MOVIES",B4u Kadak
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZftyvfzD1ynpFLXy48yvzsE/m3u8
+#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="B4u Movie D2H" tvg-logo="https://amadertv.top:8880/images/2327da3f9409d03289d7e91332f6539c.png" group-title="CDN | INDIAN MOVIES",B4u Movie D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe6PbiWcwo03HFBhIJpEQzA/m3u8
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="B4u Music" tvg-logo="https://amadertv.top:8880/images/b086ad6620c71dbbc7b9c1803ee7a689.png" group-title="CDN | MUSIC",B4u Music
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcdrS7JctYSmG-iOGB3deso/m3u8
+#EXTINF:-1 xui-id="371" tvg-id="" tvg-name="Bangla Tv D2H" tvg-logo="https://amadertv.top:8880/images/46f98ce39788f05b8f0a1f5de3215287.png" group-title="CDN | BANGLADESH",Bangla Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAXiJFWFkxz24HAcTgxptw/m3u8
+#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="Bangla Vision D2H" tvg-logo="https://amadertv.top:8880/images/5ad8208926d8ceb5e43177c24ec20357.png" group-title="CDN | BANGLADESH",Bangla Vision D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZLW2RZoKNdFd8bcGXSmwPk/m3u8
+#EXTINF:-1 xui-id="257" tvg-id="" tvg-name="BBC America" tvg-logo="https://amadertv.top:8880/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="CDN | International News",BBC America
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWLe_cGHk0iAMJPEVvAwju0/m3u8
+#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="BBC News" tvg-logo="https://amadertv.top:8880/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="CDN | International News",BBC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZacmk-kTl6LPydleRMfDeMU/m3u8
+#EXTINF:-1 xui-id="1838" tvg-id="" tvg-name="BBO HD" tvg-logo="" group-title="CDN | INDIAN MOVIES",BBO HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZczlEadPj7l9xpmnOG6VqnE/m3u8
+#EXTINF:-1 xui-id="9580" tvg-id="" tvg-name="BD | Ananda Tv" tvg-logo="https://amadertv.top:8880/images/3faba8f3f9889724cd4856caad42efe1.png" group-title="BDIX | BANGLADESH",BD | Ananda Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQScjavpopSRsLutpYPgSIU/m3u8
+#EXTINF:-1 xui-id="2589" tvg-id="" tvg-name="BD | Asian tv" tvg-logo="https://amadertv.top:8880/images/87a20a33c0ff26d360e609c054dbc329.png" group-title="BDIX | BANGLADESH",BD | Asian tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZDlYi9ADxVSfISGMAqXDM8/m3u8
+#EXTINF:-1 xui-id="2590" tvg-id="MOTVSTV" tvg-name="BD | ATN Bangla" tvg-logo="https://amadertv.top:8880/images/06459ac3880487fe7aa5df85f099a004.png" group-title="BDIX | BANGLADESH",BD | ATN Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeTJ97ZQQGLBpDbM1e8YCpc/m3u8
+#EXTINF:-1 xui-id="363" tvg-id="" tvg-name="BD | ATN News" tvg-logo="https://amadertv.top:8880/images/2666b4f72838a0db2a182513e07d7a65.png" group-title="BDIX | BANGLADESH",BD | ATN News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfqyh-9pjAoyBJizEBYEPeY/m3u8
+#EXTINF:-1 xui-id="9698" tvg-id="" tvg-name="BD | BANGLA TV" tvg-logo="https://amadertv.top:8880/images/46f98ce39788f05b8f0a1f5de3215287.png" group-title="BDIX | BANGLADESH",BD | BANGLA TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfgq8CoktI8LbhoBvXj_4aY/m3u8
+#EXTINF:-1 xui-id="263" tvg-id="" tvg-name="BD | Bangla Vision" tvg-logo="https://amadertv.top:8880/images/5ad8208926d8ceb5e43177c24ec20357.png" group-title="BDIX | BANGLADESH",BD | Bangla Vision
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZavqAISX8DPE6HsS4BOOtTU/m3u8
+#EXTINF:-1 xui-id="9700" tvg-id="" tvg-name="BD | Bijoy Tv" tvg-logo="https://amadertv.top:8880/images/20ca2ed0ef35f82f6c854699bc434705.png" group-title="BDIX | BANGLADESH",BD | Bijoy Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ0TJIelBq7mPMQvhKcVjRQ/m3u8
+#EXTINF:-1 xui-id="2596" tvg-id="" tvg-name="BD | Boishakhi Tv" tvg-logo="https://amadertv.top:8880/images/31950ca9da033daf9bec66b5a8bad071.png" group-title="BDIX | BANGLADESH",BD | Boishakhi Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQZFPxFBNPaZcDZc6driUKQ/m3u8
+#EXTINF:-1 xui-id="9703" tvg-id="" tvg-name="BD | BTV National" tvg-logo="https://amadertv.top:8880/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="BDIX | BANGLADESH",BD | BTV National
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdGAhkyrlG3A5BMJvxVT0_Y/m3u8
+#EXTINF:-1 xui-id="2573" tvg-id="" tvg-name="BD | Channel 24" tvg-logo="https://amadertv.top:8880/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="BDIX | BANGLADESH",BD | Channel 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXwd6Wb9OL2AsVX_rsKBnNU/m3u8
+#EXTINF:-1 xui-id="9579" tvg-id="" tvg-name="BD | Channel 9" tvg-logo="https://amadertv.top:8880/images/e2f0dcddda54d081d8e75e83d04c84f4.png" group-title="BDIX | BANGLADESH",BD | Channel 9
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYd-H--v_0aKEscX6K09W5s/m3u8
+#EXTINF:-1 xui-id="3006" tvg-id="" tvg-name="BD | Channel i" tvg-logo="https://amadertv.top:8880/images/3892ea18b4490fe705b193cad23914ce.png" group-title="BDIX | BANGLADESH",BD | Channel i
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeWdxSPtKZPwXl1lf7T68l8/m3u8
+#EXTINF:-1 xui-id="9591" tvg-id="" tvg-name="BD | DBC News" tvg-logo="https://amadertv.top:8880/images/06f8c00fb687b120e47fda666733fb89.png" group-title="BDIX | BANGLADESH",BD | DBC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfguKisH9ORtOwT0bi8Vo4k/m3u8
+#EXTINF:-1 xui-id="2593" tvg-id="" tvg-name="BD | Deepto tv" tvg-logo="https://amadertv.top:8880/images/63d25c932338580cf22ef61034777959.png" group-title="BDIX | BANGLADESH",BD | Deepto tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUXGvBN9ttz-CIcuLAGDwaw/m3u8
+#EXTINF:-1 xui-id="2566" tvg-id="" tvg-name="BD | Desh Tv" tvg-logo="https://amadertv.top:8880/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="BDIX | BANGLADESH",BD | Desh Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS4aXNe3OStpYcQj6EJA-Xs/m3u8
+#EXTINF:-1 xui-id="2569" tvg-id="" tvg-name="BD | Duranto TV" tvg-logo="https://amadertv.top:8880/images/063ec458e6d979ac4c4ad1192f235cbd.png" group-title="BDIX | BANGLADESH",BD | Duranto TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSgMCjeB9Oab5RXiC2yBb7Y/m3u8
+#EXTINF:-1 xui-id="355" tvg-id="" tvg-name="BD | Ekattor tv" tvg-logo="https://amadertv.top:8880/images/156b24455f88cd88ea623e35278b5594.png" group-title="BDIX | BANGLADESH",BD | Ekattor tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQsFvaCVudVQ9piYOqmpEnA/m3u8
+#EXTINF:-1 xui-id="2588" tvg-id="" tvg-name="BD | Ekhon Tv" tvg-logo="https://amadertv.top:8880/images/004eb79fdeeec53b9cbeb7b0dacaa222.jpg" group-title="BDIX | BANGLADESH",BD | Ekhon Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcGRkKIRrMYS5QgfrIYMofk/m3u8
+#EXTINF:-1 xui-id="9596" tvg-id="" tvg-name="BD | Ekushey Tv" tvg-logo="https://amadertv.top:8880/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="BDIX | BANGLADESH",BD | Ekushey Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeQHCR__ujq-9DcP3z4Xyc0/m3u8
+#EXTINF:-1 xui-id="9590" tvg-id="" tvg-name="BD | Gazi Tv" tvg-logo="https://amadertv.top:8880/images/a97267af7ba924a8610153b421e0509e.png" group-title="BDIX | BANGLADESH",BD | Gazi Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrAIImyJR8l58ob6SnbyAs/m3u8
+#EXTINF:-1 xui-id="2587" tvg-id="" tvg-name="BD | Global tv" tvg-logo="https://amadertv.top:8880/images/2b7c64332566b6c26b261c87788895ff.png" group-title="BDIX | BANGLADESH",BD | Global tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVGCyFCTVtVdaQ4FLXOcKww/m3u8
+#EXTINF:-1 xui-id="2568" tvg-id="" tvg-name="BD | Independent tv" tvg-logo="https://amadertv.top:8880/images/d0bf7914af252d8a5e44fcafc2902f88.png" group-title="BDIX | BANGLADESH",BD | Independent tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYaWoUc9AuyEq1emCO60YcY/m3u8
+#EXTINF:-1 xui-id="2572" tvg-id="DUST" tvg-name="BD | Jamuna Tv" tvg-logo="https://amadertv.top:8880/images/7ddfb89b83389e2c89af9299167bd0bc.png" group-title="BDIX | BANGLADESH",BD | Jamuna Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRNgB7KjR6pWjqcTcXuhnqU/m3u8
+#EXTINF:-1 xui-id="2574" tvg-id="" tvg-name="BD | Machranga tv" tvg-logo="https://amadertv.top:8880/images/3f5cb5cb7ef2d917ec4bd1ff264adf29.png" group-title="BDIX | BANGLADESH",BD | Machranga tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbVAmvQI2znSSlkqIC_Mna0/m3u8
+#EXTINF:-1 xui-id="3160" tvg-id="" tvg-name="BD | Mohona tv" tvg-logo="https://amadertv.top:8880/images/98cd454ab9194fd84d262e6e3de8b4f6.png" group-title="BDIX | BANGLADESH",BD | Mohona tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb4N_d3WgN_Ol1bYMhMJuIQ/m3u8
+#EXTINF:-1 xui-id="9701" tvg-id="" tvg-name="BD | My Tv" tvg-logo="https://amadertv.top:8880/images/784894ffb6709f9d446552b06ce9c5b6.png" group-title="BDIX | BANGLADESH",BD | My Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdrFPYjtf0fdy44egVqjL7s/m3u8
+#EXTINF:-1 xui-id="9712" tvg-id="" tvg-name="BD | Nagorik Tv" tvg-logo="https://amadertv.top:8880/images/6444021bbbeb26b85f6b8adb9fc69dbc.png" group-title="BDIX | BANGLADESH",BD | Nagorik Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQZImz73cSWG7LGA_INPCpw/m3u8
+#EXTINF:-1 xui-id="9577" tvg-id="" tvg-name="BD | News 24" tvg-logo="https://amadertv.top:8880/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="BDIX | BANGLADESH",BD | News 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaegmQsA2Lp7dlSc_GL3nXI/m3u8
+#EXTINF:-1 xui-id="9699" tvg-id="" tvg-name="BD | Nexus Tv" tvg-logo="https://amadertv.top:8880/images/d3603b91807f5fc9568cfecbf26bd91b.png" group-title="BDIX | BANGLADESH",BD | Nexus Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQkUqqshk3zbG3q_7mzKyos/m3u8
+#EXTINF:-1 xui-id="2578" tvg-id="" tvg-name="BD | NTV" tvg-logo="https://amadertv.top:8880/images/114cb18718630ebacf12487b32c4a89e.png" group-title="BDIX | BANGLADESH",BD | NTV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUnp0tADXdfbVZlScmIXjV8/m3u8
+#EXTINF:-1 xui-id="9619" tvg-id="" tvg-name="BD | Peace Tv Bangla" tvg-logo="https://amadertv.top:8880/images/451dba681087fbe661a0c60459787571.png" group-title="BDIX | BANGLADESH",BD | Peace Tv Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTnPNPuyOxEopfmDFItlaSo/m3u8
+#EXTINF:-1 xui-id="3007" tvg-id="" tvg-name="BD | RTV" tvg-logo="https://amadertv.top:8880/images/31804ce743f2efbbbe47cb3efcebbc89.png" group-title="BDIX | BANGLADESH",BD | RTV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9FKl-K120K5q4B7Cqsm-Y/m3u8
+#EXTINF:-1 xui-id="9697" tvg-id="" tvg-name="BD | SA TV" tvg-logo="https://amadertv.top:8880/images/fd2982dbf3c03abec8a050a772a8e11c.png" group-title="BDIX | BANGLADESH",BD | SA TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVDZKNmko2ZClBf4buRqcKY/m3u8
+#EXTINF:-1 xui-id="2570" tvg-id="" tvg-name="BD | Somoy Tv" tvg-logo="https://amadertv.top:8880/images/38db69f097cfccf074d99a480c073f50.png" group-title="BDIX | BANGLADESH",BD | Somoy Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcK5QRfflnSCeItqlgp19RE/m3u8
+#EXTINF:-1 xui-id="183" tvg-id="" tvg-name="BFLIX" tvg-logo="https://amadertv.top:8880/images/b54d59f417b57fba9e761db61c05d8ad.jpg" group-title="CDN | INDIAN MOVIES",BFLIX
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTFEeQheTFQdYGb4xM0VU-Y/m3u8
+#EXTINF:-1 xui-id="9357" tvg-id="" tvg-name="BHAKTHI TV" tvg-logo="https://amadertv.top:8880/images/090b8ff724392b045741ebf301cd0232.png" group-title="CDN | ENTERTAINMENT",BHAKTHI TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZenMHxWdki5Xo2UW73BL6as/m3u8
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="Bhojpuri Cinema" tvg-logo="https://amadertv.top:8880/images/39ebfad4cddd899ea97bfb587c298aab.png" group-title="CDN | INDIAN MOVIES",Bhojpuri Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT9TA-qhEfDEWWCTC4VLgTg/m3u8
+#EXTINF:-1 xui-id="498" tvg-id="" tvg-name="Bijoy Tv D2H" tvg-logo="https://amadertv.top:8880/images/20ca2ed0ef35f82f6c854699bc434705.png" group-title="CDN | BANGLADESH",Bijoy Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTIsZSs7nD5IubAAqIXFhyg/m3u8
+#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="CDN | INFOTAINMENT",Bloomberg
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYYxx-Kf3HeLYFpgA8APi7I/m3u8
+#EXTINF:-1 xui-id="2298" tvg-id="" tvg-name="Bloomberg TV" tvg-logo="https://amadertv.top:8880/images/bf9060f10e4529f5120f76f6a873618c.png" group-title="CDN | PAKISTAN",Bloomberg TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR1u72vh5KghjjoH0BQuqL8/m3u8
+#EXTINF:-1 xui-id="2297" tvg-id="" tvg-name="Bloomberg TV Asia (720p)" tvg-logo="https://amadertv.top:8880/images/bf9060f10e4529f5120f76f6a873618c.png" group-title="CDN | PAKISTAN",Bloomberg TV Asia (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUY_n69sYRDFhygBDf06N0/m3u8
+#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="Boishakhi Tv D2H" tvg-logo="https://amadertv.top:8880/images/31950ca9da033daf9bec66b5a8bad071.png" group-title="CDN | BANGLADESH",Boishakhi Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQyBEAAcMpArjB2ReGdnloU/m3u8
+#EXTINF:-1 xui-id="535" tvg-id="" tvg-name="Bol Entertainment" tvg-logo="" group-title="CDN | PAKISTAN",Bol Entertainment
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTlIual72SGl1cvOKp9wqWM/m3u8
+#EXTINF:-1 xui-id="2299" tvg-id="" tvg-name="Bol News (1080p)" tvg-logo="https://i.imgur.com/chHLi5u.png" group-title="CDN | PAKISTAN",Bol News (1080p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTyUfzpwoUYZl9X8ble_R9o/m3u8
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="Bollywood Classic" tvg-logo="https://amadertv.top:8880/images/04ce73ea3cb49c6f1e0e878b81b54b4c.png" group-title="CDN | INDIAN MOVIES",Bollywood Classic
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc9u9O6hyehEjTB90icSaXc/m3u8
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="Bollywood HD" tvg-logo="https://amadertv.top:8880/images/a5b215f4204c195b2fd428705a484911.png" group-title="CDN | INDIAN MOVIES",Bollywood HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTi_brqO3-LHA2psNrDxn2Y/m3u8
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="Boomerang" tvg-logo="https://amadertv.top:8880/images/984a3a7e103ebbc7798bbd7827ef9fff.png" group-title="CDN | KIDS",Boomerang
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXBZ2sFObgVUg2tlHzYIfb0/m3u8
+#EXTINF:-1 xui-id="256" tvg-id="" tvg-name="BTV CTG D2H" tvg-logo="https://amadertv.top:8880/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="CDN | BANGLADESH",BTV CTG D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWpWugSR92NLsynXFpJTyBw/m3u8
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="BTV HD D2H" tvg-logo="https://amadertv.top:8880/images/229aa3197d43cabbd254ce8813d0c55b.png" group-title="CDN | BANGLADESH",BTV HD D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWGTCWthdXAdy6v8DNDYdX8/m3u8
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="BTV News" tvg-logo="https://amadertv.top:8880/images/289266f7ce6d6c550c0258f6d165dde7.png" group-title="CDN | BANGLADESH",BTV News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVpBnAwDneFbK8ge53H2Bo0/m3u8
+#EXTINF:-1 xui-id="1524" tvg-id="" tvg-name="Calcutta News" tvg-logo="https://amadertv.top:8880/images/e4016cb41d47df912cce523685ce939e.png" group-title="CDN | INDIAN BANGLA",Calcutta News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUsDGOlsPDMV7Pb1R83FbZc/m3u8
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="Cartoon Net HD Hindi" tvg-logo="https://amadertv.top:8880/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="CDN | KIDS",Cartoon Net HD Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYIHUefASjwJUgSEjEAfIBk/m3u8
+#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="Cartoon Net UK" tvg-logo="https://amadertv.top:8880/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="CDN | KIDS",Cartoon Net UK
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcJnl_vnP0SzRm-A3BfWRu0/m3u8
+#EXTINF:-1 xui-id="3573" tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://amadertv.top:8880/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="CDN | KIDS",Cartoon Network
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbfcXeAiQ6Cze7G19DdhQQk/m3u8
+#EXTINF:-1 xui-id="1514" tvg-id="" tvg-name="CBN tv" tvg-logo="" group-title="CDN | BANGLADESH",CBN tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWWx8Uh41eYdD4i737ggsgQ/m3u8
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="CDN | International News",CGTN
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf5RVE1ShJbGMJTwZlh98D8/m3u8
+#EXTINF:-1 xui-id="9630" tvg-id="" tvg-name="CGTN DOC" tvg-logo="https://amadertv.top:8880/images/8954f9a82c7456dcf0dfd1b409ddcee0.png" group-title="CDN | INFOTAINMENT",CGTN DOC
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfbjuWYr3YgUaFyEWFn1dMA/m3u8
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="Channel 24" tvg-logo="https://amadertv.top:8880/images/0ce70228aaa8318472ee984a66f31d71.png" group-title="CDN | BANGLADESHI NEWS",Channel 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUC6DzhsUgrkVOcpQ0L-Reo/m3u8
+#EXTINF:-1 xui-id="493" tvg-id="" tvg-name="Channel 9 D2H" tvg-logo="https://amadertv.top:8880/images/e2f0dcddda54d081d8e75e83d04c84f4.png" group-title="CDN | BANGLADESH",Channel 9 D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYbXfGrjavPb89iFv7vUDTU/m3u8
+#EXTINF:-1 xui-id="326" tvg-id="" tvg-name="Channel i HD D2H" tvg-logo="https://amadertv.top:8880/images/3892ea18b4490fe705b193cad23914ce.png" group-title="CDN | BANGLADESH",Channel i HD D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY5v-brMBG7zOYe1TCWgOfk/m3u8
+#EXTINF:-1 xui-id="5101" tvg-id="" tvg-name="Channel S D2H" tvg-logo="https://amadertv.top:8880/images/aa5275628a252446053a2913bfa4d5b9.jpg" group-title="CDN | BANGLADESH",Channel S D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeRQtMOz7N5k98Lg7IuAn0U/m3u8
+#EXTINF:-1 xui-id="2300" tvg-id="" tvg-name="City News HD (1080p)" tvg-logo="https://i.imgur.com/GtYG9lG.png" group-title="CDN | PAKISTAN",City News HD (1080p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa5SkPzS-DCfq1nZjKHMjls/m3u8
+#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="CN Asia" tvg-logo="" group-title="CDN | International News",CN Asia
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDDPpd8LphoHdjq5-GmH7U/m3u8
+#EXTINF:-1 xui-id="2301" tvg-id="" tvg-name="CNBC Asia (720p)" tvg-logo="https://amadertv.top:8880/images/89b3a12919a0239487ca4a694af234ed.png" group-title="CDN | PAKISTAN",CNBC Asia (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVjlb-7ydp5S7FRtSf6XurQ/m3u8
+#EXTINF:-1 xui-id="2264" tvg-id="" tvg-name="CNN Global" tvg-logo="https://amadertv.top:8880/images/cb36207976d3b837cbc6991630cc72b5.png" group-title="CDN | International News",CNN Global
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR0Ju-TQv9O1fQy4T4wozNA/m3u8
+#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="CNN News" tvg-logo="https://amadertv.top:8880/images/cb36207976d3b837cbc6991630cc72b5.png" group-title="CDN | International News",CNN News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZiVChyLRy_WRJG-BlLnR9g/m3u8
+#EXTINF:-1 xui-id="9347" tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="CDN | INDIAN BANGLA",Colors Bangla HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVmYgAQpIFMA-X73MFoE5k8/m3u8
+#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="Colors Bangla HD D2H" tvg-logo="https://amadertv.top:8880/images/00349c906f8d988d2bd4897542d0b18a.png" group-title="CDN | INDIAN BANGLA",Colors Bangla HD D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc8pxH-cPzFbOVbBksR93tc/m3u8
+#EXTINF:-1 xui-id="154" tvg-id="" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://amadertv.top:8880/images/1979614ceb2581f4a5890a61796f15a4.png" group-title="CDN | INDIAN MOVIES",Colors Cineplex Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRnkITpabBtBzDXSEkmFzyo/m3u8
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="https://amadertv.top:8880/images/3c72e0fb843a57fb610b08c61650c0e3.png" group-title="CDN | INDIAN MOVIES",Colors Cineplex HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaWbOyZRNGwY5Ap13gdwsa8/m3u8
+#EXTINF:-1 xui-id="4689" tvg-id="" tvg-name="Colors Cineplex Superhit" tvg-logo="https://amadertv.top:8880/images/90ef9b44cb1ff0b5ad5c3b70a607191d.png" group-title="CDN | INDIAN MOVIES",Colors Cineplex Superhit
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUdeB0MvzX6AyZR67PAeFvU/m3u8
+#EXTINF:-1 xui-id="1504" tvg-id="" tvg-name="Colors HD India" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Colors HD India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZViclr7DWDbl4dPTX8nFrEY/m3u8
+#EXTINF:-1 xui-id="3604" tvg-id="" tvg-name="Colors HD India D2H" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Colors HD India D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjF-JiNiBZONa2z5gOwT8Q/m3u8
+#EXTINF:-1 xui-id="1824" tvg-id="" tvg-name="Colors HD Usa" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Colors HD Usa
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR67SnWyQg0U8VDwoK_bmR0/m3u8
+#EXTINF:-1 xui-id="9882" tvg-id="" tvg-name="Colors Infinity" tvg-logo="https://amadertv.top:8880/images/22a01428e3e26978987625d5e00ef3ab.png" group-title="BDIX | ENGLISH ENTERTAINMENT",Colors Infinity
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfBdTeQmG4ta2_EoN4QBJls/m3u8
+#EXTINF:-1 xui-id="1506" tvg-id="" tvg-name="Colors Rishtey" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Colors Rishtey
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZanyuzEERS5GqwEnutGwRvM/m3u8
+#EXTINF:-1 xui-id="3639" tvg-id="" tvg-name="Colors UK" tvg-logo="https://amadertv.top:8880/images/39653c3dd5a214be8106cbf2e007bf29.png" group-title="CDN | ENTERTAINMENT",Colors UK
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVMqN7BNDHkVcrGpDyVHUpE/m3u8
+#EXTINF:-1 xui-id="5339" tvg-id="" tvg-name="Dangal" tvg-logo="https://amadertv.top:8880/images/9be4b7294a27eb05808d8db22b5eb696.png" group-title="CDN | ENTERTAINMENT",Dangal
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVEknEeCnjjjP2a2LBC9HQc/m3u8
+#EXTINF:-1 xui-id="286" tvg-id="" tvg-name="Dangal 2" tvg-logo="https://amadertv.top:8880/images/9be4b7294a27eb05808d8db22b5eb696.png" group-title="CDN | ENTERTAINMENT",Dangal 2
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYWpC7tq2rzgQp9BhQfbCoQ/m3u8
+#EXTINF:-1 xui-id="2302" tvg-id="" tvg-name="Dawn News (720p)" tvg-logo="https://amadertv.top:8880/images/5f701f8da752c15ea5521691506b1bf0.png" group-title="CDN | PAKISTAN",Dawn News (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc7GqmPgi3za6FG8wr04x0A/m3u8
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="DBC News" tvg-logo="https://amadertv.top:8880/images/06f8c00fb687b120e47fda666733fb89.png" group-title="CDN | BANGLADESHI NEWS",DBC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYRqsAFsK7U2vHpGmtNomT0/m3u8
+#EXTINF:-1 xui-id="2930" tvg-id="" tvg-name="DD Bangla" tvg-logo="https://amadertv.top:8880/images/3cc1aa0299f387aeeedd55eb34848490.png" group-title="CDN | INDIAN BANGLA",DD Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW-TFNCux7rMT6BOPR-YXXk/m3u8
+#EXTINF:-1 xui-id="3702" tvg-id="" tvg-name="Deepto Tv" tvg-logo="https://amadertv.top:8880/images/63d25c932338580cf22ef61034777959.png" group-title="CDN | BANGLADESH",Deepto Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZficEg0cFv8KsrONaZQGdkM/m3u8
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="Desh TV D2H" tvg-logo="https://amadertv.top:8880/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="CDN | BANGLADESH",Desh TV D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZDaethuMAZy3a1TR2lpFfc/m3u8
+#EXTINF:-1 xui-id="9165" tvg-id="" tvg-name="Deshi Play Tv" tvg-logo="" group-title="CDN | ENTERTAINMENT",Deshi Play Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRnV8FHI9E1lINsHgqbM74o/m3u8
+#EXTINF:-1 xui-id="319" tvg-id="" tvg-name="Dhoom Music Bangla" tvg-logo="https://amadertv.top:8880/images/4097cf83e78f86c31bbcb99df8e5f346.png" group-title="CDN | INDIAN BANGLA",Dhoom Music Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfh3CKsybsFe6fuK7RxLXSw/m3u8
+#EXTINF:-1 xui-id="470" tvg-id="" tvg-name="Discovery" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Discovery
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcqxZyPvPO4zJcTIIdIIxfk/m3u8
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="Discovery Bangla" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Discovery Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRSm8sYoku0ild6TqJ46B0o/m3u8
+#EXTINF:-1 xui-id="2835" tvg-id="" tvg-name="Discovery English" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Discovery English
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdx-U5CqJetTbEv1V5F93B8/m3u8
+#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="Discovery Kids" tvg-logo="https://amadertv.top:8880/images/a9859a0f0b425e096cce99f672142d5e.png" group-title="CDN | KIDS",Discovery Kids
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbAkB8gyyELEjyb1AcGft70/m3u8
+#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="Discovery Science" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Discovery Science
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa6jE1kSJIWVVSDs1-lgfqs/m3u8
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Discovery Turbo
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbOjhFJGdtOBuetG8JT7eds/m3u8
+#EXTINF:-1 xui-id="9491" tvg-id="" tvg-name="Disney Channel" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney Channel
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRZaQLLQhwGExAz5TbLbtKc/m3u8
+#EXTINF:-1 xui-id="9364" tvg-id="" tvg-name="Disney Channel USA" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney Channel USA
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYvxxQg-Tv-PmGNC6Pv9sYY/m3u8
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="Disney HD Hindi" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney HD Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTd4VO64tU0Dajo_dzATjKw/m3u8
+#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="Disney Jr Eng" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney Jr Eng
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQUnKBj9EZaF1qielLGjCIM/m3u8
+#EXTINF:-1 xui-id="496" tvg-id="" tvg-name="Disney SD" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney SD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW5yaZ3tYYz_NAUjsb30XMQ/m3u8
+#EXTINF:-1 xui-id="5034" tvg-id="" tvg-name="Disney XD" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="CDN | KIDS",Disney XD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRpqkKe5qD5XtwevA2z07L4/m3u8
+#EXTINF:-1 xui-id="228" tvg-id="" tvg-name="Duranto TV" tvg-logo="https://amadertv.top:8880/images/063ec458e6d979ac4c4ad1192f235cbd.png" group-title="CDN | KIDS",Duranto TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXHb1SDRzD8JKlQSUq2D_j0/m3u8
+#EXTINF:-1 xui-id="2511" tvg-id="" tvg-name="DW News D2H" tvg-logo="https://amadertv.top:8880/images/9ba5d443ae4923e261bf66802d8a0fcc.png" group-title="CDN | International News",DW News D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcSlxwpinzR8JLMcPV8Dz6w/m3u8
+#EXTINF:-1 xui-id="318" tvg-id="" tvg-name="Ekattor Tv" tvg-logo="https://amadertv.top:8880/images/156b24455f88cd88ea623e35278b5594.png" group-title="CDN | BANGLADESHI NEWS",Ekattor Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXuNlQCbqNWBsihX3NZhCG0/m3u8
+#EXTINF:-1 xui-id="9480" tvg-id="" tvg-name="Ekattor Tv D2H" tvg-logo="https://amadertv.top:8880/images/156b24455f88cd88ea623e35278b5594.png" group-title="CDN | BANGLADESHI NEWS",Ekattor Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTipYp09TTXchegVlt_xS1A/m3u8
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="Ekhon Tv D2H" tvg-logo="https://amadertv.top:8880/images/004eb79fdeeec53b9cbeb7b0dacaa222.jpg" group-title="CDN | BANGLADESHI NEWS",Ekhon Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZShbsyqBbC3htV1kE4Xkwng/m3u8
+#EXTINF:-1 xui-id="372" tvg-id="" tvg-name="Ekushey Tv D2H" tvg-logo="https://amadertv.top:8880/images/3aaf5edb19f998f1d091f4574aca2b80.png" group-title="CDN | BANGLADESH",Ekushey Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXe5t3hdAIWvZTsOSNWVlUU/m3u8
+#EXTINF:-1 xui-id="3873" tvg-id="" tvg-name="Enterr 10 Bangla" tvg-logo="https://amadertv.top:8880/images/cab550b9f4525f629e0e9d60d92062d9.png" group-title="CDN | INDIAN BANGLA",Enterr 10 Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQ_g686w4ayHIuhUo7xZxlQ/m3u8
+#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="Enterr10" tvg-logo="https://amadertv.top:8880/images/80dd3d7d16aceeab5940395c7e43bdf6.png" group-title="CDN | ENTERTAINMENT",Enterr10
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfmYjW3UN0mFvO8SjiuWcEU/m3u8
+#EXTINF:-1 xui-id="2304" tvg-id="" tvg-name="Express Entertainment" tvg-logo="https://amadertv.top:8880/images/dc2bd4a98b24d47fbcae8e60fa57651f.png" group-title="CDN | PAKISTAN",Express Entertainment
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZX81waYcl4cwXVy8OKlIAcY/m3u8
+#EXTINF:-1 xui-id="268" tvg-id="" tvg-name="Fashion Tv" tvg-logo="" group-title="CDN | INFOTAINMENT",Fashion Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa55AB38i0wsQWCKH5pos5U/m3u8
+#EXTINF:-1 xui-id="1846" tvg-id="" tvg-name="Fateh Tv" tvg-logo="" group-title="CDN | International News",Fateh Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbyKqTWWau6WyFHCTkhxNTg/m3u8
+#EXTINF:-1 xui-id="2305" tvg-id="" tvg-name="Fazal TV (1080p)" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="CDN | PAKISTAN",Fazal TV (1080p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa_m7zmTQQAfCPdX_HVv3vA/m3u8
+#EXTINF:-1 xui-id="274" tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="CDN | International News",Fox News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYaG5bGVgTEfb_tn0dk-YmQ/m3u8
+#EXTINF:-1 xui-id="9356" tvg-id="" tvg-name="Fox Weather" tvg-logo="" group-title="CDN | INFOTAINMENT",Fox Weather
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWGUAxzPq580MBiTcj7g9n0/m3u8
+#EXTINF:-1 xui-id="2306" tvg-id="" tvg-name="Gawahi TV (720p)" tvg-logo="https://i.imgur.com/0W6zzHS.png" group-title="CDN | PAKISTAN",Gawahi TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU3Zd1fywOOjlZCVc-IhVRY/m3u8
+#EXTINF:-1 xui-id="1686" tvg-id="" tvg-name="Gazi Tv" tvg-logo="https://amadertv.top:8880/images/a97267af7ba924a8610153b421e0509e.png" group-title="CDN | BANGLADESH",Gazi Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeGidgIEzJkWOViGxnkT5f8/m3u8
+#EXTINF:-1 xui-id="1762" tvg-id="" tvg-name="Geo Entertainment" tvg-logo="" group-title="CDN | PAKISTAN",Geo Entertainment
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWUYy4n1BY9FqzPCNYJdJQ8/m3u8
+#EXTINF:-1 xui-id="1507" tvg-id="" tvg-name="Geo Kahani" tvg-logo="" group-title="CDN | PAKISTAN",Geo Kahani
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZagUTXJ6ZeH-LGeCbxyQKR4/m3u8
+#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="GEO News" tvg-logo="" group-title="CDN | PAKISTAN",GEO News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVh9GOmE90rgzB0ncn8_tBg/m3u8
+#EXTINF:-1 xui-id="2307" tvg-id="" tvg-name="Geo News (576p)" tvg-logo="https://amadertv.top:8880/images/f3cd6ca1ac7e7e1cfe4c99f8c2585f55.png" group-title="CDN | PAKISTAN",Geo News (576p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ7ow0ThuJjkNWRlgzezvDU/m3u8
+#EXTINF:-1 xui-id="2308" tvg-id="" tvg-name="Geo Tez (576p)" tvg-logo="https://amadertv.top:8880/images/7a2c95465dbce944f7847b8838df8757.png" group-title="CDN | PAKISTAN",Geo Tez (576p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWOZxjw8WIZ0kFSB2Xa00sc/m3u8
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="GoldMines" tvg-logo="https://amadertv.top:8880/images/cac3eadbfa9988ffee26b796dcd02342.jpg" group-title="CDN | INDIAN MOVIES",GoldMines
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYtpp2STuo_g96QKlIcFQvc/m3u8
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="Goldmines Bollywood" tvg-logo="https://amadertv.top:8880/images/924262a6a44ab8847f9bc46509b1a168.jpg" group-title="CDN | INDIAN MOVIES",Goldmines Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSwIZPDbPZ0bWYmGfKBNeNU/m3u8
+#EXTINF:-1 xui-id="414" tvg-id="" tvg-name="GoldMines Movie" tvg-logo="https://amadertv.top:8880/images/1de2f0721a5f07bc518141a39293ea9c.png" group-title="CDN | INDIAN MOVIES",GoldMines Movie
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVi13VoBmtdExw37kKvHOtg/m3u8
+#EXTINF:-1 xui-id="2309" tvg-id="" tvg-name="Grace Network (720p)" tvg-logo="https://amadertv.top:8880/images/9814caf2c6bdc7a1b83698fb1e3ed185.png" group-title="CDN | PAKISTAN",Grace Network (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdelMG69YfrTkncNjLJGZTo/m3u8
+#EXTINF:-1 xui-id="4688" tvg-id="" tvg-name="Green Entertainment" tvg-logo="" group-title="CDN | PAKISTAN",Green Entertainment
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTffhwad60EP4rmFYg9uZjs/m3u8
+#EXTINF:-1 xui-id="5104" tvg-id="" tvg-name="Hindi Hits HD" tvg-logo="" group-title="CDN | MUSIC",Hindi Hits HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS7wAMcAyoPV9XKuVANyYrM/m3u8
+#EXTINF:-1 xui-id="162" tvg-id="" tvg-name="History HD" tvg-logo="https://amadertv.top:8880/images/3f0cda7d238e2611b23e36a031fda1b0.png" group-title="CDN | INFOTAINMENT",History HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeTqDGmIhNP3QZvbsTfo0Xw/m3u8
+#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="History TV 18 India" tvg-logo="https://amadertv.top:8880/images/3f0cda7d238e2611b23e36a031fda1b0.png" group-title="CDN | INFOTAINMENT",History TV 18 India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXxj74DzvuvFLvzXSRbexe0/m3u8
+#EXTINF:-1 xui-id="2310" tvg-id="" tvg-name="HK TV (720p)" tvg-logo="https://i.imgur.com/brAY4XF.png" group-title="CDN | PAKISTAN",HK TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVmcxYCsRIVQUGqa3AOH100/m3u8
+#EXTINF:-1 xui-id="504" tvg-id="" tvg-name="Hum Masala" tvg-logo="https://amadertv.top:8880/images/9523caf69382f9ccf383998dd650ebbe.png" group-title="CDN | PAKISTAN",Hum Masala
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQX0l2ju50v_7ed0rVn-gcw/m3u8
+#EXTINF:-1 xui-id="1764" tvg-id="" tvg-name="Hum News" tvg-logo="https://amadertv.top:8880/images/d45075ef38bb50c0950b76436b070657.png" group-title="CDN | PAKISTAN",Hum News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcvKuL_ymY0Xt03StW3DaNs/m3u8
+#EXTINF:-1 xui-id="1763" tvg-id="" tvg-name="Hum Sitary" tvg-logo="https://amadertv.top:8880/images/e7f9202389f0e5c134edbb8c896d9c21.png" group-title="CDN | PAKISTAN",Hum Sitary
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY1EA5URiF2JDvatOD_jplU/m3u8
+#EXTINF:-1 xui-id="506" tvg-id="" tvg-name="HUM TV" tvg-logo="https://amadertv.top:8880/images/842de778884bff62fac7dfafc89890f0.png" group-title="CDN | PAKISTAN",HUM TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAkuzZixavR0I110H7cqD0/m3u8
+#EXTINF:-1 xui-id="2311" tvg-id="" tvg-name="Hum World Tv" tvg-logo="https://amadertv.top:8880/images/842de778884bff62fac7dfafc89890f0.png" group-title="CDN | PAKISTAN",Hum World Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbiFaHID6gbyYrT1RNc-Vts/m3u8
+#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="Hungama" tvg-logo="https://amadertv.top:8880/images/50644f18857d3bc44f7576da65817458.png" group-title="CDN | KIDS",Hungama
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUJ5pG0pLo_1EDrfz5PRD-M/m3u8
+#EXTINF:-1 xui-id="273" tvg-id="" tvg-name="In Trouble" tvg-logo="" group-title="CDN | INFOTAINMENT",In Trouble
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSSZ43JHjrEiU1QO_jg6HwA/m3u8
+#EXTINF:-1 xui-id="277" tvg-id="" tvg-name="In Wild" tvg-logo="" group-title="CDN | INFOTAINMENT",In Wild
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQzVe8581OAirN8slH_hT4s/m3u8
+#EXTINF:-1 xui-id="2627" tvg-id="" tvg-name="IND | & Picture" tvg-logo="https://amadertv.top:8880/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="BDIX | ENTERTAINMENT",IND | & Picture
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWlgnVetDFovgamz4bl2NTM/m3u8
+#EXTINF:-1 xui-id="2234" tvg-id="" tvg-name="IND | & Pictures HD" tvg-logo="https://amadertv.top:8880/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="BDIX | ENTERTAINMENT",IND | & Pictures HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZarpN3Bt-Gkgj3qW-eIaH4/m3u8
+#EXTINF:-1 xui-id="2597" tvg-id="" tvg-name="IND | & tv HD" tvg-logo="https://amadertv.top:8880/images/c540d8ab8b5773c4e8c1905a62939e98.png" group-title="BDIX | ENTERTAINMENT",IND | & tv HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVMQqyEFAFzYAy8E5z5XdX4/m3u8
+#EXTINF:-1 xui-id="9488" tvg-id="" tvg-name="IND | 9XM" tvg-logo="https://amadertv.top:8880/images/3fe2f9c39f72a6863f2d08aa76200cdf.png" group-title="BDIX | ENTERTAINMENT",IND | 9XM
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYl3lK9m7cHqbSx-GKQuZ9A/m3u8
+#EXTINF:-1 xui-id="9587" tvg-id="" tvg-name="IND | B4U Kadak" tvg-logo="https://amadertv.top:8880/images/d41983b5b1c974ef7872e250264ea690.png" group-title="BDIX | ENTERTAINMENT",IND | B4U Kadak
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZflabi3frA9X_dZXT74bd8s/m3u8
+#EXTINF:-1 xui-id="9585" tvg-id="" tvg-name="IND | B4U Movies" tvg-logo="https://amadertv.top:8880/images/2327da3f9409d03289d7e91332f6539c.png" group-title="BDIX | ENTERTAINMENT",IND | B4U Movies
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb_VjBDhmX_c83v4c8M-qy4/m3u8
+#EXTINF:-1 xui-id="1508" tvg-id="" tvg-name="IND | B4u Music APAC" tvg-logo="https://amadertv.top:8880/images/b086ad6620c71dbbc7b9c1803ee7a689.png" group-title="BDIX | ENTERTAINMENT",IND | B4u Music APAC
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSdXeMv5xSEs1lLtZvGCvUg/m3u8
+#EXTINF:-1 xui-id="9365" tvg-id="" tvg-name="IND | Chumbok tv" tvg-logo="https://amadertv.top:8880/images/79f6136eeadccd95df0466c8e55e8475.png" group-title="BDIX | ENTERTAINMENT",IND | Chumbok tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaYG_zxWqpbe-v6qysbC0as/m3u8
+#EXTINF:-1 xui-id="383" tvg-id="" tvg-name="IND | Dangal Tv" tvg-logo="https://amadertv.top:8880/images/9be4b7294a27eb05808d8db22b5eb696.png" group-title="BDIX | ENTERTAINMENT",IND | Dangal Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTLEexX2O4P16W5dNyhYU8s/m3u8
+#EXTINF:-1 xui-id="9583" tvg-id="" tvg-name="IND | Goldmines" tvg-logo="https://amadertv.top:8880/images/cac3eadbfa9988ffee26b796dcd02342.jpg" group-title="BDIX | ENTERTAINMENT",IND | Goldmines
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb2ZSJNyhq9ygnW11M6wEaE/m3u8
+#EXTINF:-1 xui-id="7979" tvg-id="" tvg-name="IND | Goldmines 2" tvg-logo="https://amadertv.top:8880/images/cac3eadbfa9988ffee26b796dcd02342.jpg" group-title="BDIX | ENTERTAINMENT",IND | Goldmines 2
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfkqLHZu7_hLzJ2IB3ecuKI/m3u8
+#EXTINF:-1 xui-id="289" tvg-id="" tvg-name="IND | Goldmines Bollywood" tvg-logo="https://amadertv.top:8880/images/1de2f0721a5f07bc518141a39293ea9c.png" group-title="BDIX | ENTERTAINMENT",IND | Goldmines Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVNu8jrv_Djb7zO1_NRU9UI/m3u8
+#EXTINF:-1 xui-id="9584" tvg-id="" tvg-name="IND | Goldmines Movies" tvg-logo="https://amadertv.top:8880/images/1de2f0721a5f07bc518141a39293ea9c.png" group-title="BDIX | ENTERTAINMENT",IND | Goldmines Movies
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdiD6n3x8uhiXp7Lr3rW8gM/m3u8
+#EXTINF:-1 xui-id="2716" tvg-id="" tvg-name="IND | History tv 18 India" tvg-logo="https://amadertv.top:8880/images/3f0cda7d238e2611b23e36a031fda1b0.png" group-title="BDIX | ENTERTAINMENT",IND | History tv 18 India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdSaQrlrZwlkz9BN54WPYPw/m3u8
+#EXTINF:-1 xui-id="9707" tvg-id="" tvg-name="IND | Kolkata tv" tvg-logo="https://amadertv.top:8880/images/43878b193becc23361e7c7c7e7153afc.png" group-title="BDIX | INDIAN BANGLA",IND | Kolkata tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRAU1TExAbPoUpWoaIHUNCA/m3u8
+#EXTINF:-1 xui-id="9381" tvg-id="" tvg-name="IND | Mastiii" tvg-logo="" group-title="BDIX | ENTERTAINMENT",IND | Mastiii
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWyJddE-Du5CCWMWTr-fQgo/m3u8
+#EXTINF:-1 xui-id="9636" tvg-id="" tvg-name="IND | MTV India" tvg-logo="https://amadertv.top:8880/images/4f3e0317174da36de31c25fb30d3c216.png" group-title="BDIX | ENTERTAINMENT",IND | MTV India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbXX4CyADtiYsBWxp2I1qh0/m3u8
+#EXTINF:-1 xui-id="9586" tvg-id="" tvg-name="IND | Music India" tvg-logo="" group-title="BDIX | ENTERTAINMENT",IND | Music India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQdrKubUdWRKwrgiMimrVro/m3u8
+#EXTINF:-1 xui-id="9704" tvg-id="" tvg-name="IND | Republic Bangla" tvg-logo="https://amadertv.top:8880/images/bdde09c9d04559affc245e921e2d3f92.png" group-title="BDIX | INDIAN BANGLA",IND | Republic Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUKjjUX_N5TNfHzlf1G5d38/m3u8
+#EXTINF:-1 xui-id="9409" tvg-id="" tvg-name="IND | Sony HD" tvg-logo="https://amadertv.top:8880/images/54261cd640063a9b1a5bd6bd5eb4bc87.png" group-title="BDIX | ENTERTAINMENT",IND | Sony HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa048qg0Hgu2ui8HDpva85o/m3u8
+#EXTINF:-1 xui-id="9440" tvg-id="" tvg-name="IND | Sony Max" tvg-logo="https://amadertv.top:8880/images/ef885936cdabbc6e5bd91129e6dd4356.png" group-title="BDIX | ENTERTAINMENT",IND | Sony Max
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS_Y0OQdFgB2T_v9pSmjNRM/m3u8
+#EXTINF:-1 xui-id="9474" tvg-id="" tvg-name="IND | Sony Max HD" tvg-logo="https://amadertv.top:8880/images/ef885936cdabbc6e5bd91129e6dd4356.png" group-title="BDIX | ENTERTAINMENT",IND | Sony Max HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa_E1IJy3GY4-P2c3lCURkw/m3u8
+#EXTINF:-1 xui-id="2512" tvg-id="" tvg-name="IND | Sony Pix HD" tvg-logo="https://amadertv.top:8880/images/a5c4d2baa5a352f27806695ba52077b5.png" group-title="BDIX | ENTERTAINMENT",IND | Sony Pix HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWwcw4AxP9XjPPdQE9vm2Mc/m3u8
+#EXTINF:-1 xui-id="3175" tvg-id="" tvg-name="IND | Sony Sab HD" tvg-logo="https://amadertv.top:8880/images/0db8259cbbea0d55104d7ee2014e8ccf.png" group-title="BDIX | ENTERTAINMENT",IND | Sony Sab HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQLefJFGCssOSnc3s3vKp3w/m3u8
+#EXTINF:-1 xui-id="9571" tvg-id="" tvg-name="IND | Star Bharat" tvg-logo="https://amadertv.top:8880/images/00b69b3dd58d2be4f120328b048b2923.png" group-title="BDIX | ENTERTAINMENT",IND | Star Bharat
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWJL5ik8qOywApTis1Lfyv4/m3u8
+#EXTINF:-1 xui-id="2586" tvg-id="" tvg-name="IND | Star Gold HD" tvg-logo="https://amadertv.top:8880/images/3e3acc61e538bbfd6203f5d3ccba279f.png" group-title="BDIX | ENTERTAINMENT",IND | Star Gold HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUgtTx9hjhrwQ-oE0NjfTkA/m3u8
+#EXTINF:-1 xui-id="3174" tvg-id="" tvg-name="IND | Star Gold Select" tvg-logo="https://amadertv.top:8880/images/a48e6d693b45233d6eff9550b0e716da.png" group-title="BDIX | ENTERTAINMENT",IND | Star Gold Select
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSUB2IVhHwriMeEoJmyXxzA/m3u8
+#EXTINF:-1 xui-id="2321" tvg-id="" tvg-name="IND | Star Movies HD" tvg-logo="https://amadertv.top:8880/images/b2d68be504cab63db4a052829a85ea99.png" group-title="BDIX | ENGLISH ENTERTAINMENT",IND | Star Movies HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYHXsWiOaVwQD2vvDFtfoo8/m3u8
+#EXTINF:-1 xui-id="3171" tvg-id="" tvg-name="IND | Star Plus" tvg-logo="https://amadertv.top:8880/images/049b874c96e3357c04a38507776c9944.png" group-title="BDIX | ENTERTAINMENT",IND | Star Plus
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcJeX0mWfpeZapLoIt646tI/m3u8
+#EXTINF:-1 xui-id="9705" tvg-id="" tvg-name="IND | TV 9 Bangla" tvg-logo="https://amadertv.top:8880/images/8ad34356c0f970142e977dce7dc216fe.jpg" group-title="BDIX | INDIAN BANGLA",IND | TV 9 Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdIQKinnw-Gm3_hggm0ZnbQ/m3u8
+#EXTINF:-1 xui-id="9368" tvg-id="" tvg-name="IND | WOW Cinema One" tvg-logo="https://amadertv.top:8880/images/267f39c46451e4a2a422ad850f2b1804.png" group-title="BDIX | ENTERTAINMENT",IND | WOW Cinema One
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS6xVX3-00JdQIAKG9gZB-E/m3u8
+#EXTINF:-1 xui-id="9706" tvg-id="" tvg-name="IND | Zee 24 Ghanta" tvg-logo="https://amadertv.top:8880/images/b596d4ac71544576e69a35368c8ab9ae.png" group-title="BDIX | INDIAN BANGLA",IND | Zee 24 Ghanta
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDCuGOXiYIA_thUFFjLO_A/m3u8
+#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="IND | Zee Action HD" tvg-logo="https://amadertv.top:8880/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="BDIX | ENTERTAINMENT",IND | Zee Action HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTHyboe7O8uIVBlyAkBDYNQ/m3u8
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="IND | Zee Anmol Cinema" tvg-logo="https://amadertv.top:8880/images/fda47eae707afb2e1ada1381483876b6.png" group-title="BDIX | ENTERTAINMENT",IND | Zee Anmol Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcGni9Jm7aJ1bX5Tceaoq7c/m3u8
+#EXTINF:-1 xui-id="2598" tvg-id="" tvg-name="IND | Zee Bollywood" tvg-logo="https://amadertv.top:8880/images/33c567a1a2204fbf81f7e11c75230a9c.png" group-title="BDIX | ENTERTAINMENT",IND | Zee Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVdsuGbms3qjyuC-QwCa_C0/m3u8
+#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="IND | Zee Cafe HD" tvg-logo="https://amadertv.top:8880/images/3368d036d3c7cceed49400fbabede6f0.png" group-title="BDIX | ENGLISH ENTERTAINMENT",IND | Zee Cafe HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcmPeGMtlNNYwYALCs0L8TQ/m3u8
+#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="IND | Zee Cinema" tvg-logo="https://amadertv.top:8880/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="BDIX | ENTERTAINMENT",IND | Zee Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSUKh-rBcLVKGaQ1A6MhuHk/m3u8
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="IND | Zee Cinema HD" tvg-logo="https://amadertv.top:8880/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="BDIX | ENTERTAINMENT",IND | Zee Cinema HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSQdiR3VFuAQmU73dTH16v4/m3u8
+#EXTINF:-1 xui-id="2891" tvg-id="" tvg-name="IND | Zee tv HD" tvg-logo="https://amadertv.top:8880/images/c97561753718d424220a0a08a86eacc6.png" group-title="BDIX | ENTERTAINMENT",IND | Zee tv HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZedW8_DINy9jtVXklvEMWrg/m3u8
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="IND | Zing" tvg-logo="" group-title="BDIX | ENTERTAINMENT",IND | Zing
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT1Hw5Flr2MVjj3G04zJxPk/m3u8
+#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="Independent Tv" tvg-logo="https://amadertv.top:8880/images/d0bf7914af252d8a5e44fcafc2902f88.png" group-title="CDN | BANGLADESHI NEWS",Independent Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZULK8Iy_fQWJ8J7_JKpiJRs/m3u8
+#EXTINF:-1 xui-id="3170" tvg-id="" tvg-name="INFO | Discovery Bangla.." tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="BDIX | INFO & KIDS",INFO | Discovery Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQh3yMwSHEN9uBbwdrxtt24/m3u8
+#EXTINF:-1 xui-id="3173" tvg-id="" tvg-name="INFO | Nat Geo Bangla.." tvg-logo="https://amadertv.top:8880/images/2e994647df142e4138fc029c2de62a2e.png" group-title="BDIX | INFO & KIDS",INFO | Nat Geo Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTI7Mh5jDHZcLa52jOiyGPw/m3u8
+#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="INFO | Travel Xp Bangla.." tvg-logo="https://amadertv.top:8880/images/de9292b0b716c3f1592c8d33a82cb566.png" group-title="BDIX | INFO & KIDS",INFO | Travel Xp Bangla..
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUbnvcETgmKc4d_Zg4fvWqI/m3u8
+#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="Investigation Discovery" tvg-logo="https://amadertv.top:8880/images/48e3cf79657da58d23a465bfb123207b.png" group-title="CDN | INFOTAINMENT",Investigation Discovery
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc-da3rttFvJ29GVD04pGrE/m3u8
+#EXTINF:-1 xui-id="2312" tvg-id="" tvg-name="Isaac TV (720p)" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="CDN | PAKISTAN",Isaac TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZezvnuCI3i_OIXe_8_jWw1Y/m3u8
+#EXTINF:-1 xui-id="3699" tvg-id="" tvg-name="Islam Tv Bangla" tvg-logo="https://amadertv.top:8880/images/0a9cabc50a2d7a3d8cc7fa1f11bb519c.jpg" group-title="CDN | BANGLADESH",Islam Tv Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZef8Fky6n5qitKmhOM8toGE/m3u8
+#EXTINF:-1 xui-id="38" tvg-id="" tvg-name="Jago News 24" tvg-logo="https://amadertv.top:8880/images/0bf9fdad70170c8d1c1174b7fc023869.png" group-title="CDN | BANGLADESHI NEWS",Jago News 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfat2RQOzuefMLFaOvzeozI/m3u8
+#EXTINF:-1 xui-id="3628" tvg-id="" tvg-name="Jalsha Movie HD" tvg-logo="https://amadertv.top:8880/images/7b56b95ae6b670652b7b990e79fe7c07.png" group-title="CDN | INDIAN BANGLA",Jalsha Movie HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf1OuA3e-be8BnESvHfPdu0/m3u8
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="Jamuna Tv" tvg-logo="https://amadertv.top:8880/images/7ddfb89b83389e2c89af9299167bd0bc.png" group-title="CDN | BANGLADESHI NEWS",Jamuna Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc-h3NKEOfJkxh0GCAV1RT0/m3u8
+#EXTINF:-1 xui-id="9363" tvg-id="" tvg-name="Joo Music" tvg-logo="" group-title="CDN | MUSIC",Joo Music
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUlGip4Ph4ZET-eXnwTvpT0/m3u8
+#EXTINF:-1 xui-id="2314" tvg-id="" tvg-name="Joshua TV (720p)" tvg-logo="https://amadertv.top:8880/images/4e07ba03d877ded2e86e6adea7ac0146.png" group-title="CDN | PAKISTAN",Joshua TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZIndDxZgDwTdtN10wqXwJs/m3u8
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="Khushboo Bangla" tvg-logo="https://amadertv.top:8880/images/0a726aab3b5e7259859705d84f7d19b6.png" group-title="CDN | INDIAN BANGLA",Khushboo Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUEqxzrqjdlgI3G2tV3lGB0/m3u8
+#EXTINF:-1 xui-id="288" tvg-id="" tvg-name="Kids Tv India" tvg-logo="https://amadertv.top:8880/images/cbd012efc07502308ead2136413d9e74.png" group-title="CDN | KIDS",Kids Tv India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT-NDnNPUPs0Hla8R--FgjA/m3u8
+#EXTINF:-1 xui-id="9906" tvg-id="" tvg-name="KIDS | Cartoon Network" tvg-logo="https://amadertv.top:8880/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="BDIX | INFO & KIDS",KIDS | Cartoon Network
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjSMYgyxOMoxf6ckt5HjPI/m3u8
+#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="KIDS | Cartoon Network HD+" tvg-logo="https://amadertv.top:8880/images/18e25f9178da30245aaa61cf747d0e0c.png" group-title="BDIX | INFO & KIDS",KIDS | Cartoon Network HD+
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZV-EcSVE8sZ83aChrOJjaf4/m3u8
+#EXTINF:-1 xui-id="4952" tvg-id="" tvg-name="KIDS | Discovery Kids" tvg-logo="https://amadertv.top:8880/images/a9859a0f0b425e096cce99f672142d5e.png" group-title="BDIX | INFO & KIDS",KIDS | Discovery Kids
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfirxcmLJQZtWrWDaVeT4kM/m3u8
+#EXTINF:-1 xui-id="3168" tvg-id="" tvg-name="KIDS | Disney Channel" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="BDIX | INFO & KIDS",KIDS | Disney Channel
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaN6MiFbAtYSruuBNP7xq1M/m3u8
+#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="KIDS | Disney SD" tvg-logo="https://amadertv.top:8880/images/459f2fe7d5f63224f489799bf53b5ae6.png" group-title="BDIX | INFO & KIDS",KIDS | Disney SD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbnodsDVgeaD5Tmzsc1vBQc/m3u8
+#EXTINF:-1 xui-id="2585" tvg-id="PTVUKGU" tvg-name="KIDS | Hungama Kids" tvg-logo="https://amadertv.top:8880/images/50644f18857d3bc44f7576da65817458.png" group-title="BDIX | INFO & KIDS",KIDS | Hungama Kids
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZagls12cIvG9vSq8ifutR3M/m3u8
+#EXTINF:-1 xui-id="9509" tvg-id="" tvg-name="KIDS | Nick Bangla" tvg-logo="https://amadertv.top:8880/images/ed1b2e33eb3804bbc717c4cc4962df1b.png" group-title="BDIX | INFO & KIDS",KIDS | Nick Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSK9IMSeWlfOIqeVBrrLfwc/m3u8
+#EXTINF:-1 xui-id="3673" tvg-id="" tvg-name="KIDS | Pogo" tvg-logo="https://amadertv.top:8880/images/a944d6c9c6ca24c6df0bf46aa8ddb64c.png" group-title="BDIX | INFO & KIDS",KIDS | Pogo
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSy60crNRurjh0TU98WFhvM/m3u8
+#EXTINF:-1 xui-id="275" tvg-id="" tvg-name="KIDS | Rongeen Tv" tvg-logo="https://amadertv.top:8880/images/7af7f4597df91ea1762e53235184a1a6.png" group-title="BDIX | INFO & KIDS",KIDS | Rongeen Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQXgK0gnpSCjLVHakg-C-uQ/m3u8
+#EXTINF:-1 xui-id="9533" tvg-id="" tvg-name="KIDS | Sonic Bangla" tvg-logo="https://amadertv.top:8880/images/48942282904605980f8da906b9c4ed5d.png" group-title="BDIX | INFO & KIDS",KIDS | Sonic Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQYnbERq5o0pVpaC_Toyg1Y/m3u8
+#EXTINF:-1 xui-id="2073" tvg-id="" tvg-name="KIDS | Sony yay" tvg-logo="https://amadertv.top:8880/images/4b332a1d984f28e69586a83bf0070a14.png" group-title="BDIX | INFO & KIDS",KIDS | Sony yay
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRG5ew-m_W8A_I7wBNntKKg/m3u8
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="KIDS | Super Hungama" tvg-logo="https://amadertv.top:8880/images/59351067eb0c7d5f90992fb82462569f.png" group-title="BDIX | INFO & KIDS",KIDS | Super Hungama
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZde09mOl5u6PvKZa_WlqvrI/m3u8
+#EXTINF:-1 xui-id="3692" tvg-id="" tvg-name="Kolkata Tv" tvg-logo="https://amadertv.top:8880/images/43878b193becc23361e7c7c7e7153afc.png" group-title="CDN | INDIAN BANGLA",Kolkata Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR8db53emq_ge0WrAtklmsM/m3u8
+#EXTINF:-1 xui-id="2840" tvg-id="" tvg-name="Love nature 4k" tvg-logo="https://amadertv.top:8880/images/52377b25c95b0abdc4c30ff7fae115fe.png" group-title="CDN | INFOTAINMENT",Love nature 4k
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSbt-45PSOaEVIcpyzs8PV0/m3u8
+#EXTINF:-1 xui-id="3704" tvg-id="" tvg-name="Machranga Tv D2H" tvg-logo="https://amadertv.top:8880/images/3f5cb5cb7ef2d917ec4bd1ff264adf29.png" group-title="CDN | BANGLADESH",Machranga Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZBPj7288SjtN9p7kVqZASo/m3u8
+#EXTINF:-1 xui-id="2315" tvg-id="" tvg-name="Madani Channel Urdu (720p)" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="CDN | PAKISTAN",Madani Channel Urdu (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWiY0fpGm5_f_7cRprs0QwQ/m3u8
+#EXTINF:-1 xui-id="1844" tvg-id="" tvg-name="Manoranjaan Prime" tvg-logo="https://amadertv.top:8880/images/c32d8e388896c8c2da05f464b1555872.png" group-title="CDN | ENTERTAINMENT",Manoranjaan Prime
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQKdC588ntLaJaYY2uT4f7c/m3u8
+#EXTINF:-1 xui-id="1488" tvg-id="" tvg-name="Manoranjan Grand" tvg-logo="https://amadertv.top:8880/images/8f8eeb1c60b67b8c5d58128ad3302db8.png" group-title="CDN | INDIAN MOVIES",Manoranjan Grand
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRSeSt7v-7cUWJECBPdloVg/m3u8
+#EXTINF:-1 xui-id="1808" tvg-id="" tvg-name="Manoranjan Movie" tvg-logo="https://amadertv.top:8880/images/04e925851f26115dbf6999db500c74d3.png" group-title="CDN | INDIAN MOVIES",Manoranjan Movie
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZepyFIZPFW8GrcoWU9EVOpI/m3u8
+#EXTINF:-1 xui-id="1843" tvg-id="" tvg-name="Manoranjan Tv" tvg-logo="https://amadertv.top:8880/images/c32d8e388896c8c2da05f464b1555872.png" group-title="CDN | ENTERTAINMENT",Manoranjan Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfj-c5AcjLvXrFVae_vOP5g/m3u8
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="Masti" tvg-logo="" group-title="CDN | MUSIC",Masti
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY-ABx4HxlnONlsN9wSkXo8/m3u8
+#EXTINF:-1 xui-id="1887" tvg-id="" tvg-name="Matri Bhumi TV" tvg-logo="https://amadertv.top:8880/images/8d7639aa03ef2aa28e192eb236f44dd1.jpg" group-title="CDN | BANGLADESH",Matri Bhumi TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZemx3psUDqh2iDq0rXUN_fk/m3u8
+#EXTINF:-1 xui-id="1705" tvg-id="" tvg-name="Max Bangla Tv" tvg-logo="https://amadertv.top:8880/images/542423871f7a38ed7059080f6ca93aef.png" group-title="CDN | BANGLADESH",Max Bangla Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAVfCZ3KRyatWshTu_8EIU/m3u8
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="MBC Bollywood" tvg-logo="https://amadertv.top:8880/images/71c1539c36882d2f74fc26d8717b6203.png" group-title="CDN | INDIAN MOVIES",MBC Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQCTm_zxLffiZr701WDqZEA/m3u8
+#EXTINF:-1 xui-id="3703" tvg-id="" tvg-name="Mohona tv D2H" tvg-logo="https://amadertv.top:8880/images/98cd454ab9194fd84d262e6e3de8b4f6.png" group-title="CDN | BANGLADESH",Mohona tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXMzk_65OHIs-Bj3DSevzaQ/m3u8
+#EXTINF:-1 xui-id="1769" tvg-id="" tvg-name="Mon Tv Bangla" tvg-logo="https://amadertv.top:8880/images/a82cfd8eccf136ecb5f32eb3ccba37a7.png" group-title="CDN | INDIAN BANGLA",Mon Tv Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZYOcnYgah5tjZ0wdwEjRGA/m3u8
+#EXTINF:-1 xui-id="9354" tvg-id="" tvg-name="Movie Bangla" tvg-logo="https://amadertv.top:8880/images/fceaa66617c710c8950719db1390f477.png" group-title="CDN | BANGLADESH",Movie Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVm6OJfveFzNlU38LN9kjKw/m3u8
+#EXTINF:-1 xui-id="5360" tvg-id="" tvg-name="MTV" tvg-logo="https://amadertv.top:8880/images/80e215892e6def7dbf2a909e00cf6f7e.png" group-title="CDN | MUSIC",MTV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUsKmn_HRTVCXijMg2Sq5gw/m3u8
+#EXTINF:-1 xui-id="9438" tvg-id="" tvg-name="MTV India" tvg-logo="https://amadertv.top:8880/images/4f3e0317174da36de31c25fb30d3c216.png" group-title="CDN | MUSIC",MTV India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaKhSqifC5T3RMpXspo-NVo/m3u8
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="Music Bangla" tvg-logo="https://amadertv.top:8880/images/a774c5f1aac9b5092637d470fce36135.jpg" group-title="CDN | BANGLADESH",Music Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRIZ2zCqlqrBgLqY8GVvrnY/m3u8
+#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="Music India" tvg-logo="" group-title="CDN | MUSIC",Music India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZsfvh_bO5omFdv8PIMGtBQ/m3u8
+#EXTINF:-1 xui-id="284" tvg-id="" tvg-name="Music Masti" tvg-logo="" group-title="CDN | MUSIC",Music Masti
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTzgStKLho6QcVv1-csfv2U/m3u8
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="My Tv D2H" tvg-logo="https://amadertv.top:8880/images/784894ffb6709f9d446552b06ce9c5b6.png" group-title="CDN | BANGLADESH",My Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbyrvfnAFKpkytOgOOQfXm8/m3u8
+#EXTINF:-1 xui-id="8059" tvg-id="" tvg-name="Nagorik Tv" tvg-logo="https://amadertv.top:8880/images/6444021bbbeb26b85f6b8adb9fc69dbc.png" group-title="CDN | BANGLADESH",Nagorik Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeVJ9ET9VPDkezfqdJ-eCWs/m3u8
+#EXTINF:-1 xui-id="45" tvg-id="" tvg-name="Nan Tv" tvg-logo="https://amadertv.top:8880/images/0e4c86ab0f1fa882cb858fec1ca74081.png" group-title="CDN | BANGLADESH",Nan Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQjw22Rha4lYxzbba75u6eY/m3u8
+#EXTINF:-1 xui-id="163" tvg-id="" tvg-name="Nat Geo Bangla" tvg-logo="https://amadertv.top:8880/images/2e994647df142e4138fc029c2de62a2e.png" group-title="CDN | INFOTAINMENT",Nat Geo Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVSJOQoThBPtFyA5yHiLatc/m3u8
+#EXTINF:-1 xui-id="2833" tvg-id="" tvg-name="Nat Geo HD ENG" tvg-logo="https://amadertv.top:8880/images/2e994647df142e4138fc029c2de62a2e.png" group-title="CDN | INFOTAINMENT",Nat Geo HD ENG
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrIgfpzMUAT3e-6fBlQcZI/m3u8
+#EXTINF:-1 xui-id="2834" tvg-id="" tvg-name="Nat Geo Wild ENG" tvg-logo="https://amadertv.top:8880/images/a63bc739b61b16dc13f425e0a34a7a1d.png" group-title="CDN | INFOTAINMENT",Nat Geo Wild ENG
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTyGpt9o3zGjqfdXAR7g9Gc/m3u8
+#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="NAT GEO Wild Hindi" tvg-logo="https://amadertv.top:8880/images/a63bc739b61b16dc13f425e0a34a7a1d.png" group-title="CDN | INFOTAINMENT",NAT GEO Wild Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcdHB6yLGovnv7w_MnMLWGw/m3u8
+#EXTINF:-1 xui-id="2275" tvg-id="" tvg-name="NBC News" tvg-logo="" group-title="CDN | International News",NBC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYvJtWWTwS_nj6lzoLbQVMU/m3u8
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="NDTV India" tvg-logo="https://amadertv.top:8880/images/4682633295a7c9daf68fb3d9b73431a3.png" group-title="CDN | International News",NDTV India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVUBUKYpYfWztr3CacMqYSw/m3u8
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="News 24" tvg-logo="https://amadertv.top:8880/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="CDN | BANGLADESHI NEWS",News 24
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXIcq640v7ochoQFX7Lv_tk/m3u8
+#EXTINF:-1 xui-id="9471" tvg-id="" tvg-name="News 24 D2H" tvg-logo="https://amadertv.top:8880/images/10a8b11cf7233caf0de4ca7f4ad6e307.jpg" group-title="CDN | BANGLADESHI NEWS",News 24 D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf5vf-Q82Q9PkSqpKNVQTGA/m3u8
+#EXTINF:-1 xui-id="9360" tvg-id="" tvg-name="News India 24x7" tvg-logo="https://amadertv.top:8880/images/41952ad02118b2f425981c8365d622c8.png" group-title="CDN | ENTERTAINMENT",News India 24x7
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbKOcwQHADwRhEZZxIS_Wd4/m3u8
+#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="News Max" tvg-logo="" group-title="CDN | International News",News Max
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUc8Wwz_mQZrAyGjE-1dPE/m3u8
+#EXTINF:-1 xui-id="3691" tvg-id="" tvg-name="News Time" tvg-logo="https://amadertv.top:8880/images/7fd7752309691c3c4f27c20197d1adb5.png" group-title="CDN | INDIAN BANGLA",News Time
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdbTT7EW824xgzRxO0yO3mE/m3u8
+#EXTINF:-1 xui-id="347" tvg-id="" tvg-name="NEWS | Al jazera News" tvg-logo="https://amadertv.top:8880/images/1ee990c7a4b43230ce3e9b7334fe3f33.png" group-title="BDIX | INFO & KIDS",NEWS | Al jazera News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaWBw9MsTsGfJ145XcIOmmU/m3u8
+#EXTINF:-1 xui-id="2684" tvg-id="" tvg-name="NEWS | BBC News" tvg-logo="https://amadertv.top:8880/images/31dc829a067b11ad0b0a1b6190dc7757.png" group-title="BDIX | INFO & KIDS",NEWS | BBC News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9nChZt1hQTijeRdCW1I44/m3u8
+#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="NEWS | CNN" tvg-logo="https://amadertv.top:8880/images/cb36207976d3b837cbc6991630cc72b5.png" group-title="BDIX | INFO & KIDS",NEWS | CNN
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSkcojj_otPiHOEPsI3Wvow/m3u8
+#EXTINF:-1 xui-id="9702" tvg-id="" tvg-name="NEWS | FOX NEWS" tvg-logo="https://amadertv.top:8880/images/88d552671b8a0aced4cc02ed621077b2.png" group-title="BDIX | INFO & KIDS",NEWS | FOX NEWS
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaNdi0iTPFPxlfzekbSAJhk/m3u8
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="Nexus Tv D2H" tvg-logo="https://amadertv.top:8880/images/d3603b91807f5fc9568cfecbf26bd91b.png" group-title="CDN | BANGLADESH",Nexus Tv D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZauiqfxnull9I32L02sj6ME/m3u8
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="NHK Japan" tvg-logo="" group-title="CDN | International News",NHK Japan
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZUCOyTO6DK4hqgKSNUeBGo/m3u8
+#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="Nick HD Plus" tvg-logo="https://amadertv.top:8880/images/ed1b2e33eb3804bbc717c4cc4962df1b.png" group-title="CDN | KIDS",Nick HD Plus
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRJYsmRgSWJwWqwnLgSJTXY/m3u8
+#EXTINF:-1 xui-id="2609" tvg-id="" tvg-name="Nick Hindi" tvg-logo="https://amadertv.top:8880/images/ed1b2e33eb3804bbc717c4cc4962df1b.png" group-title="CDN | KIDS",Nick Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcFSzFvK30NoZ3OULhLi4ZU/m3u8
+#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Nick Jr" tvg-logo="https://amadertv.top:8880/images/ed1b2e33eb3804bbc717c4cc4962df1b.png" group-title="CDN | KIDS",Nick Jr
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcl02DEecLLRQpI2L0Ulqnw/m3u8
+#EXTINF:-1 xui-id="457" tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://amadertv.top:8880/images/ed1b2e33eb3804bbc717c4cc4962df1b.png" group-title="CDN | KIDS",Nickelodeon
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcFAEebHDXLaz0TIFtoa-IU/m3u8
+#EXTINF:-1 xui-id="3964" tvg-id="" tvg-name="Nicktoons" tvg-logo="https://amadertv.top:8880/images/bb8b60e66e1b72470ce333ecd118e750.png" group-title="CDN | KIDS",Nicktoons
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTA7mEek0kOFPyvAZ5CJ3-A/m3u8
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="NTV D2H" tvg-logo="https://amadertv.top:8880/images/114cb18718630ebacf12487b32c4a89e.png" group-title="CDN | BANGLADESH",NTV D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVfgLsmH7vYEn4-vyK1Ares/m3u8
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="NTV UK" tvg-logo="https://amadertv.top:8880/images/114cb18718630ebacf12487b32c4a89e.png" group-title="CDN | BANGLADESH",NTV UK
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVdJJv0DQfgBf-i5WxAktKU/m3u8
+#EXTINF:-1 xui-id="2316" tvg-id="" tvg-name="One Golf (720p)" tvg-logo="https://amadertv.top:8880/images/a122eb8a2fa553f4cd4a29529fbb689f.png" group-title="CDN | PAKISTAN",One Golf (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcr5oqiotKzgiKOm3yl8Xb4/m3u8
+#EXTINF:-1 xui-id="3596" tvg-id="" tvg-name="Oscar Movies" tvg-logo="https://amadertv.top:8880/images/e8ef074060c71e35adc8fe68c0c6f8db.png" group-title="CDN | INDIAN MOVIES",Oscar Movies
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ8Ljy3pulZKQGCYbOzKHZM/m3u8
+#EXTINF:-1 xui-id="1805" tvg-id="" tvg-name="P.B - Ahil Tv BD" tvg-logo="https://amadertv.top:8880/images/f8c790e3b9f174f90edc2d549e0c4c3c.png" group-title="CDN | BANGLADESH",P.B - Ahil Tv BD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZY_oYdpnVo5Ed_5W7fFSZE/m3u8
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="P.B - Bangla 1 Tv" tvg-logo="https://amadertv.top:8880/images/2ba87a1f547667059ece21f0d7ea1e2f.png" group-title="CDN | BANGLADESH",P.B - Bangla 1 Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTXPdk8U7lixo5DgPFJ9Ppw/m3u8
+#EXTINF:-1 xui-id="1845" tvg-id="" tvg-name="P.B - Channel 52" tvg-logo="https://amadertv.top:8880/images/749f84db1795d61c770584d938c007aa.jpg" group-title="CDN | BANGLADESH",P.B - Channel 52
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZd4x68xtJziDB0m12Ba_4Mo/m3u8
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="P.B - Channel S UK" tvg-logo="https://amadertv.top:8880/images/94e2af23fa0827d69cc55beb7306816c.jpg" group-title="CDN | BANGLADESH",P.B - Channel S UK
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQresAYr60ByY3Bcj_P3FGY/m3u8
+#EXTINF:-1 xui-id="1803" tvg-id="" tvg-name="P.B- ion tv" tvg-logo="https://amadertv.top:8880/images/a1a32fd606bb3686675289786fdfa7fd.jpg" group-title="CDN | BANGLADESH",P.B- ion tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVEwxV3jThB1dxkHb8GLbnI/m3u8
+#EXTINF:-1 xui-id="1806" tvg-id="" tvg-name="P.B-Bangla 24 Canada" tvg-logo="https://amadertv.top:8880/images/3d8826948de3975e5aaf790357ef7db0.png" group-title="CDN | BANGLADESH",P.B-Bangla 24 Canada
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUvG-ssCvh5JeDL4Nv1jRQ/m3u8
+#EXTINF:-1 xui-id="4029" tvg-id="" tvg-name="P.B-DESHE BIDESHE TV" tvg-logo="https://amadertv.top:8880/images/07a8c8ad867d8c6117786545c2060fc4.png" group-title="CDN | BANGLADESH",P.B-DESHE BIDESHE TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRjXtgpq2Oicvt3JEmm4iwc/m3u8
+#EXTINF:-1 xui-id="379" tvg-id="" tvg-name="P.B-IBTV USA Bangla" tvg-logo="https://amadertv.top:8880/images/d8783b2742a6ff06da18c8e5f81ab8af.png" group-title="CDN | BANGLADESH",P.B-IBTV USA Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZclx_8fJMVzLAabiWUslX-0/m3u8
+#EXTINF:-1 xui-id="1798" tvg-id="" tvg-name="P.B-Millennium TV" tvg-logo="https://amadertv.top:8880/images/4cf84bd868177e7a88172aa2b85595ae.png" group-title="CDN | BANGLADESH",P.B-Millennium TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbt6OIFNRlyMFx49G94oKks/m3u8
+#EXTINF:-1 xui-id="48" tvg-id="" tvg-name="P.B-NRB Tv" tvg-logo="https://amadertv.top:8880/images/5002c2278dcb68ed97f1cb90385232b0.png" group-title="CDN | BANGLADESH",P.B-NRB Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ3g7VRnKj8igC6OEEVp-zw/m3u8
+#EXTINF:-1 xui-id="1801" tvg-id="" tvg-name="P.B-The Channel Tv" tvg-logo="https://amadertv.top:8880/images/19f86c3238caf47b101faaaaae458773.png" group-title="CDN | BANGLADESH",P.B-The Channel Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWH5PDm9CbVJwP8QWVu-rt4/m3u8
+#EXTINF:-1 xui-id="2801" tvg-id="" tvg-name="P.B-Time Television" tvg-logo="https://amadertv.top:8880/images/638673c31802e5ba5bd5bf2c58aa2c49.png" group-title="CDN | BANGLADESH",P.B-Time Television
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU32DRE4oaItKrdeMsYPHP8/m3u8
+#EXTINF:-1 xui-id="2294" tvg-id="" tvg-name="PAK | Geo kahani" tvg-logo="" group-title="BDIX | ENTERTAINMENT",PAK | Geo kahani
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbZvbYGLcr3pUEo2hozBkzY/m3u8
+#EXTINF:-1 xui-id="9593" tvg-id="" tvg-name="PAK | Hum Masala" tvg-logo="https://amadertv.top:8880/images/9523caf69382f9ccf383998dd650ebbe.png" group-title="BDIX | ENTERTAINMENT",PAK | Hum Masala
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWvbcSi44kkPlTns5ZxXPO4/m3u8
+#EXTINF:-1 xui-id="9594" tvg-id="" tvg-name="PAK | Hum Sitary" tvg-logo="https://amadertv.top:8880/images/e7f9202389f0e5c134edbb8c896d9c21.png" group-title="BDIX | ENTERTAINMENT",PAK | Hum Sitary
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb0hPAuKBcC5yawfTSwJ03w/m3u8
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="PAK | Hum Tv" tvg-logo="https://amadertv.top:8880/images/842de778884bff62fac7dfafc89890f0.png" group-title="BDIX | ENTERTAINMENT",PAK | Hum Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb5JiJIUGjvL5bXBZLdaZE0/m3u8
+#EXTINF:-1 xui-id="5103" tvg-id="" tvg-name="PBS Kids" tvg-logo="https://amadertv.top:8880/images/a4c97baeee4f6e3203883e4c2854f572.jpg" group-title="CDN | KIDS",PBS Kids
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdFgN9Vn98ruy2aunzg4PuQ/m3u8
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="Play Entertainment" tvg-logo="" group-title="CDN | PAKISTAN",Play Entertainment
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVIbEuNeFwvRqXqcrUPztlI/m3u8
+#EXTINF:-1 xui-id="2317" tvg-id="" tvg-name="PNN News (720p)" tvg-logo="https://i.imgur.com/edKutxd.png" group-title="CDN | PAKISTAN",PNN News (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVsn-llvmziEDtDNSbFvI-U/m3u8
+#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="Pogo" tvg-logo="https://amadertv.top:8880/images/a944d6c9c6ca24c6df0bf46aa8ddb64c.png" group-title="CDN | KIDS",Pogo
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbiO3W1h8DHz-UXy6zbnQUc/m3u8
+#EXTINF:-1 xui-id="2318" tvg-id="" tvg-name="Praise TV (720p)" tvg-logo="https://amadertv.top:8880/images/a859ec3dce912bb3fb83327936f23dfe.png" group-title="CDN | PAKISTAN",Praise TV (720p)
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc_Ti6ZLjxSFEJccgnLwOiQ/m3u8
+#EXTINF:-1 xui-id="2319" tvg-id="" tvg-name="PTV Home" tvg-logo="https://amadertv.top:8880/images/59cea9683f29ff3008dd7ec7c60de2a1.png" group-title="CDN | PAKISTAN",PTV Home
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeRi7BdIlDzCTGTt5PI4aCE/m3u8
+#EXTINF:-1 xui-id="3642" tvg-id="" tvg-name="Punjabi Hits" tvg-logo="" group-title="CDN | MUSIC",Punjabi Hits
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZd0AnkrHLKYkzDeMPquN8ok/m3u8
+#EXTINF:-1 xui-id="9486" tvg-id="" tvg-name="Quest" tvg-logo="" group-title="CDN | INFOTAINMENT",Quest
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVFF7BGQZuM307h2BfxiFWc/m3u8
+#EXTINF:-1 xui-id="1809" tvg-id="" tvg-name="Republic Bangla" tvg-logo="https://amadertv.top:8880/images/bdde09c9d04559affc245e921e2d3f92.png" group-title="CDN | INDIAN BANGLA",Republic Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQD-E3epIrJ05hrEh1QFVc4/m3u8
+#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://amadertv.top:8880/images/538f218c8bb989b5a15b8cb8973efc0d.png" group-title="CDN | ENTERTAINMENT",Republic Bharat
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYRtV60wh3LSRWGBOdIto9Y/m3u8
+#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="Rongeen Tv" tvg-logo="https://amadertv.top:8880/images/7af7f4597df91ea1762e53235184a1a6.png" group-title="CDN | KIDS",Rongeen Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZalOr_JVygediEmhVLeayf0/m3u8
+#EXTINF:-1 xui-id="1703" tvg-id="" tvg-name="RPLUS News" tvg-logo="https://amadertv.top:8880/images/f71d181ed504c1ac5a7ef80bed7cc45c.jpg" group-title="CDN | INDIAN BANGLA",RPLUS News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXvgf2HoNnYHmorcK39jsqE/m3u8
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="Rtv" tvg-logo="https://amadertv.top:8880/images/31804ce743f2efbbbe47cb3efcebbc89.png" group-title="CDN | BANGLADESH",Rtv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbebx4E7bMPAQu_seYosLk0/m3u8
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="SA TV D2H" tvg-logo="https://amadertv.top:8880/images/fd2982dbf3c03abec8a050a772a8e11c.png" group-title="CDN | BANGLADESH",SA TV D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRY3A-Yu1AZ6CBzfuYRA1tE/m3u8
+#EXTINF:-1 xui-id="3690" tvg-id="" tvg-name="Salaam Tv" tvg-logo="https://amadertv.top:8880/images/1ed6bb31b34b6d2718c414ce97a5ae29.jpg" group-title="CDN | BANGLADESH",Salaam Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZckPyDjp1uyNfgr14ZDkYCU/m3u8
+#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="sananda Tv" tvg-logo="https://amadertv.top:8880/images/990a97da3821e736bcf5c3c0b8fc8f59.jpg" group-title="CDN | INDIAN BANGLA",sananda Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXcipgQgOtUjQbPFmlb5mfU/m3u8
+#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="https://amadertv.top:8880/images/4dc6a75db6879a3cf234d600fdec3f91.png" group-title="CDN | INDIAN BANGLA",Sangeet Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbPqeYaCHN9szBMw04aUnW0/m3u8
+#EXTINF:-1 xui-id="3645" tvg-id="" tvg-name="Sangeet Bhujpuri" tvg-logo="" group-title="CDN | MUSIC",Sangeet Bhujpuri
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZREojh21Z2pVHoRTRoroF2g/m3u8
+#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="Scripps News" tvg-logo="" group-title="CDN | International News",Scripps News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZarwlMcXIa9byjraky30Z7M/m3u8
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Shadin Bangla TV" tvg-logo="https://amadertv.top:8880/images/cd808c7bf072858f536654e079c7d74d.jpg" group-title="CDN | BANGLADESH",Shadin Bangla TV
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdYKkAUBDyPZTZaZCS_T024/m3u8
+#EXTINF:-1 xui-id="5632" tvg-id="" tvg-name="Shemaroo Bollywood" tvg-logo="https://amadertv.top:8880/images/ad8860358963b253d8a0924eabb8fad5.png" group-title="CDN | INDIAN MOVIES",Shemaroo Bollywood
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS7aK7Hh4UPURo53VWpBja0/m3u8
+#EXTINF:-1 xui-id="9377" tvg-id="" tvg-name="Shemaroo Filmi Gaane" tvg-logo="" group-title="CDN | MUSIC",Shemaroo Filmi Gaane
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSPuWIZArkPRN3DsWPgnnqU/m3u8
+#EXTINF:-1 xui-id="1509" tvg-id="" tvg-name="Shemaroo Tv" tvg-logo="https://amadertv.top:8880/images/fe2abb2de6b079ea2e97ba2902b903fb.png" group-title="CDN | ENTERTAINMENT",Shemaroo Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfdrcOUUxrOt_deMk7TfdUI/m3u8
+#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="Show Box" tvg-logo="" group-title="CDN | MUSIC",Show Box
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVg316xVHrA49jT0rMy51Hg/m3u8
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="Sky news" tvg-logo="" group-title="CDN | International News",Sky news
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdRzgMDQsJwbS2TeIUw5460/m3u8
+#EXTINF:-1 xui-id="9343" tvg-id="" tvg-name="Somoy Tv HD" tvg-logo="https://amadertv.top:8880/images/38db69f097cfccf074d99a480c073f50.png" group-title="CDN | BANGLADESHI NEWS",Somoy Tv HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdtEAtiuEU7jbXRPOpHO2A0/m3u8
+#EXTINF:-1 xui-id="4687" tvg-id="" tvg-name="Sonic Hindi" tvg-logo="https://amadertv.top:8880/images/48942282904605980f8da906b9c4ed5d.png" group-title="CDN | KIDS",Sonic Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbgFYcgOZyo7aSWTiUp3tuE/m3u8
+#EXTINF:-1 xui-id="2138" tvg-id="SAATH" tvg-name="Sony Aath D2H" tvg-logo="https://amadertv.top:8880/images/27a90e36876babfde99d60c651c32799.png" group-title="CDN | INDIAN BANGLA",Sony Aath D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfY2V6h0_PjvoynNsguVQjM/m3u8
+#EXTINF:-1 xui-id="6303" tvg-id="" tvg-name="Sony Aath Global" tvg-logo="https://amadertv.top:8880/images/27a90e36876babfde99d60c651c32799.png" group-title="CDN | INDIAN BANGLA",Sony Aath Global
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWfqDk_9wAvwxenddv8JHBI/m3u8
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="Sony BBC Earth D2H" tvg-logo="https://amadertv.top:8880/images/2a5dee755e7d6487388964e4a70ec213.png" group-title="CDN | INFOTAINMENT",Sony BBC Earth D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQYZ1WubtgGl6GXsxWVAHbU/m3u8
+#EXTINF:-1 xui-id="2799" tvg-id="" tvg-name="Sony HD" tvg-logo="https://amadertv.top:8880/images/54261cd640063a9b1a5bd6bd5eb4bc87.png" group-title="CDN | ENTERTAINMENT",Sony HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZjQKv2O0zHlf65cJib4Cz4/m3u8
+#EXTINF:-1 xui-id="3943" tvg-id="" tvg-name="Sony HD UK" tvg-logo="https://amadertv.top:8880/images/54261cd640063a9b1a5bd6bd5eb4bc87.png" group-title="CDN | ENTERTAINMENT",Sony HD UK
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXJp6oLZ-kqvf_TXscjRZ2A/m3u8
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="Sony HD USA" tvg-logo="https://amadertv.top:8880/images/54261cd640063a9b1a5bd6bd5eb4bc87.png" group-title="CDN | ENTERTAINMENT",Sony HD USA
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaaciFRx4Zv744s4w-UdN-0/m3u8
+#EXTINF:-1 xui-id="461" tvg-id="404242" tvg-name="Sony Max 2 D2H" tvg-logo="https://amadertv.top:8880/images/e907b83505d2ce12c5c85c9345f41aa8.png" group-title="CDN | INDIAN MOVIES",Sony Max 2 D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcYjUJ1_SdyCCAoa3firqZs/m3u8
+#EXTINF:-1 xui-id="2800" tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://amadertv.top:8880/images/ef885936cdabbc6e5bd91129e6dd4356.png" group-title="CDN | INDIAN MOVIES",Sony Max HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbM5SIQRPWjVrxGz4xuXUbg/m3u8
+#EXTINF:-1 xui-id="474" tvg-id="" tvg-name="Sony Pal" tvg-logo="https://amadertv.top:8880/images/5c309d20af0ce2a8ba03152c30051d03.png" group-title="CDN | ENTERTAINMENT",Sony Pal
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZOyZotKfz3MBF-cR235joA/m3u8
+#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="Sony Sab HD" tvg-logo="https://amadertv.top:8880/images/0db8259cbbea0d55104d7ee2014e8ccf.png" group-title="CDN | ENTERTAINMENT",Sony Sab HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQuRhxuft3Wd9jzJ4yAQIjQ/m3u8
+#EXTINF:-1 xui-id="1807" tvg-id="" tvg-name="Sony Wah D2H" tvg-logo="https://amadertv.top:8880/images/d28211c2dcdc7d4012f99c1bb8b06833.png" group-title="CDN | ENTERTAINMENT",Sony Wah D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfPNLwjAGafXl0bTvyHdMME/m3u8
+#EXTINF:-1 xui-id="9457" tvg-id="" tvg-name="Sony Yay Bangla D2H" tvg-logo="https://amadertv.top:8880/images/4b332a1d984f28e69586a83bf0070a14.png" group-title="CDN | KIDS",Sony Yay Bangla D2H
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdFsnqcC1CmwKq3wNv5X0Nc/m3u8
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="Sony Yay Hindi" tvg-logo="https://amadertv.top:8880/images/4b332a1d984f28e69586a83bf0070a14.png" group-title="CDN | KIDS",Sony Yay Hindi
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZarXd1zfNTb44KEyAFLB-U4/m3u8
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="Star Bharat HD" tvg-logo="https://amadertv.top:8880/images/00b69b3dd58d2be4f120328b048b2923.png" group-title="CDN | ENTERTAINMENT",Star Bharat HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrtcyp3NYh400MpnWvrgso/m3u8
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="Star Gold 2" tvg-logo="https://amadertv.top:8880/images/ae2c14ce5a772359e421314b832effa0.png" group-title="CDN | INDIAN MOVIES",Star Gold 2
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfaui6txs4EpHQV-JN9OPs8/m3u8
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="Star Gold HD" tvg-logo="https://amadertv.top:8880/images/3e3acc61e538bbfd6203f5d3ccba279f.png" group-title="CDN | INDIAN MOVIES",Star Gold HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSII1-kSSQU2i7Mp0I7iEUw/m3u8
+#EXTINF:-1 xui-id="2117" tvg-id="" tvg-name="Star Gold Romance" tvg-logo="https://amadertv.top:8880/images/de7261259bfe122978cef4bed281f8a5.png" group-title="CDN | INDIAN MOVIES",Star Gold Romance
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYLSJ8lfQ2BkZ7hypRZhzKI/m3u8
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="Star Gold Select HD" tvg-logo="https://amadertv.top:8880/images/a48e6d693b45233d6eff9550b0e716da.png" group-title="CDN | INDIAN MOVIES",Star Gold Select HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrApjhwx6AY-lAVa5gjRDY/m3u8
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Star Gold Thrills" tvg-logo="https://amadertv.top:8880/images/4523ede2f652c681463765a870aa1962.png" group-title="CDN | INDIAN MOVIES",Star Gold Thrills
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTsmsw2_nL394R2PBMjYmwk/m3u8
+#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Star Plus HD" tvg-logo="https://amadertv.top:8880/images/049b874c96e3357c04a38507776c9944.png" group-title="CDN | ENTERTAINMENT",Star Plus HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS11tBtS-iYNHKSxDYbsR20/m3u8
+#EXTINF:-1 xui-id="37" tvg-id="" tvg-name="Star Utsav" tvg-logo="https://amadertv.top:8880/images/9e8c6ebc2a28fa8e3e7a821bbe520342.png" group-title="CDN | ENTERTAINMENT",Star Utsav
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe8b3k11P1XVb6DVdw3YIrc/m3u8
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="Sun Bangla" tvg-logo="https://amadertv.top:8880/images/4c51104a81300a5af27174e46970d789.png" group-title="CDN | INDIAN BANGLA",Sun Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRcw12aaxyBAMdXRUbqzgSY/m3u8
+#EXTINF:-1 xui-id="3714" tvg-id="" tvg-name="Sun Music" tvg-logo="https://amadertv.top:8880/images/fc6d0928ff69e8c8a1ee9a7c0ce1ef86.png" group-title="CDN | MUSIC",Sun Music
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQ3L-v22D8seJqRZxG2i4ks/m3u8
+#EXTINF:-1 xui-id="2681" tvg-id="" tvg-name="Super Hungama" tvg-logo="https://amadertv.top:8880/images/59351067eb0c7d5f90992fb82462569f.png" group-title="CDN | KIDS",Super Hungama
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWuMsCAOM5NrJFhWO46wmOo/m3u8
+#EXTINF:-1 xui-id="9689" tvg-id="" tvg-name="T Play Music" tvg-logo="" group-title="CDN | MUSIC",T Play Music
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTTx436QmZLF5EKnikn7VLQ/m3u8
+#EXTINF:-1 xui-id="287" tvg-id="" tvg-name="Tabbar Hits" tvg-logo="" group-title="CDN | MUSIC",Tabbar Hits
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcQ96ERcxS86S6tylKrOVJU/m3u8
+#EXTINF:-1 xui-id="987" tvg-id="" tvg-name="Tara Bangla Cinema" tvg-logo="https://amadertv.top:8880/images/079cc0026e17d80d37e7b76d746e74eb.png" group-title="CDN | INDIAN BANGLA",Tara Bangla Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZwRU1HKEl6spIg4om6jGJs/m3u8
+#EXTINF:-1 xui-id="2838" tvg-id="" tvg-name="Tara Tv" tvg-logo="https://amadertv.top:8880/images/97a481743435517f7cc370b7bc566b1c.png" group-title="CDN | INDIAN BANGLA",Tara Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWeG5mK9IFxv1XMZPnj8vho/m3u8
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="TLC HD" tvg-logo="https://amadertv.top:8880/images/59dde927e18cb31d3a2b2aa0d44bb460.png" group-title="CDN | INFOTAINMENT",TLC HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe89wFqOoz8dFMyOX7u2T7c/m3u8
+#EXTINF:-1 xui-id="2074" tvg-id="" tvg-name="Tom & Jerry" tvg-logo="" group-title="CDN | KIDS",Tom & Jerry
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfIlhV3voZNu9w3jz4C2tGY/m3u8
+#EXTINF:-1 xui-id="9353" tvg-id="" tvg-name="Toroni tv" tvg-logo="https://amadertv.top:8880/images/49a2872036dfed27fa012879315b1072.png" group-title="CDN | BANGLADESH",Toroni tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfa8GHSFFu3rWFETth3zcYo/m3u8
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="Trace Urban" tvg-logo="https://amadertv.top:8880/images/fe324e9f02deb82314e2cbc5a59189cf.png" group-title="CDN | MUSIC",Trace Urban
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWfNAepvKVT4XDgtmXU4k3A/m3u8
+#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="Travel Channel" tvg-logo="" group-title="CDN | INFOTAINMENT",Travel Channel
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAv_HHYy8SgcjxKv1BdPKk/m3u8
+#EXTINF:-1 xui-id="9378" tvg-id="" tvg-name="Travel XP Bangla" tvg-logo="https://amadertv.top:8880/images/de9292b0b716c3f1592c8d33a82cb566.png" group-title="CDN | INFOTAINMENT",Travel XP Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW06cG4sBvrYbd42S_YYpLE/m3u8
+#EXTINF:-1 xui-id="9441" tvg-id="" tvg-name="TV 9 Bangla" tvg-logo="https://amadertv.top:8880/images/8ad34356c0f970142e977dce7dc216fe.jpg" group-title="CDN | INDIAN BANGLA",TV 9 Bangla
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf926efocFJ41qvtm5ZnYb4/m3u8
+#EXTINF:-1 xui-id="9513" tvg-id="" tvg-name="V2 Beats Tv" tvg-logo="https://amadertv.top:8880/images/a1124f7d3fb3d2e8f0c0e7ea80d5f66e.png" group-title="CDN | MUSIC",V2 Beats Tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZavXUkX81eaYTld9RVsU4kA/m3u8
+#EXTINF:-1 xui-id="8163" tvg-id="" tvg-name="VH1" tvg-logo="" group-title="CDN | MUSIC",VH1
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTwFf3Z5H2i2yBbIAFJ2IU8/m3u8
+#EXTINF:-1 xui-id="9355" tvg-id="" tvg-name="Wion News" tvg-logo="" group-title="CDN | International News",Wion News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQCy88CzthpV5bzjO-Zmpuw/m3u8
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="Wow Cinema" tvg-logo="https://amadertv.top:8880/images/267f39c46451e4a2a422ad850f2b1804.png" group-title="CDN | INDIAN MOVIES",Wow Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUzHaKgGqCClKybaGsNpZJY/m3u8
+#EXTINF:-1 xui-id="9437" tvg-id="" tvg-name="yrf Music" tvg-logo="" group-title="CDN | MUSIC",yrf Music
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfxs8AglSoAavcHREfW3PoM/m3u8
+#EXTINF:-1 xui-id="9629" tvg-id="" tvg-name="ZB Cinema" tvg-logo="https://amadertv.top:8880/images/2e670bfa1459e63733ff0e94ced894ea.png" group-title="CDN | INDIAN BANGLA",ZB Cinema
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbdkdQUC74Si19WlKeMduVE/m3u8
+#EXTINF:-1 xui-id="1847" tvg-id="" tvg-name="Zee 24 Ghonta" tvg-logo="https://amadertv.top:8880/images/b596d4ac71544576e69a35368c8ab9ae.png" group-title="CDN | INDIAN BANGLA",Zee 24 Ghonta
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRn_cUFpitK6DYhZxuAgCAc/m3u8
+#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="Zee 25 Ghonta" tvg-logo="" group-title="CDN | International News",Zee 25 Ghonta
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXYedPZ6CaLxKVq3bSteceQ/m3u8
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="https://amadertv.top:8880/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="CDN | INDIAN MOVIES",Zee Cinema HD
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZah7nG0LDY7ADBaPvYlggDw/m3u8
+#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="Zee Classic" tvg-logo="https://amadertv.top:8880/images/31238401c43a6ce95f2324d441ab05a5.png" group-title="CDN | INDIAN MOVIES",Zee Classic
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUKTUv6Fej7zPUp4SxyM2Uc/m3u8
+#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="CDN | International News",Zee News
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaS2MSq8A_BuOli1enellMU/m3u8
+#EXTINF:-1 xui-id="9903" tvg-id="" tvg-name="Zee tv" tvg-logo="https://amadertv.top:8880/images/c97561753718d424220a0a08a86eacc6.png" group-title="CDN | ENTERTAINMENT",Zee tv
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUEIgeXhKIGqUmp7_0E1CGg/m3u8
+#EXTINF:-1 xui-id="996" tvg-id="" tvg-name="Zee Tv HD India" tvg-logo="https://amadertv.top:8880/images/c97561753718d424220a0a08a86eacc6.png" group-title="CDN | ENTERTAINMENT",Zee Tv HD India
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUuyf6lHpVNFR-_M9os2OLw/m3u8
+#EXTINF:-1 xui-id="1825" tvg-id="" tvg-name="Zee Tv HD USA" tvg-logo="https://amadertv.top:8880/images/c97561753718d424220a0a08a86eacc6.png" group-title="CDN | ENTERTAINMENT",Zee Tv HD USA
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUwUJOT8J_cb9PWtwMjPWYk/m3u8
+#EXTINF:-1 xui-id="278" tvg-id="" tvg-name="Zee Tv Uk" tvg-logo="https://amadertv.top:8880/images/c97561753718d424220a0a08a86eacc6.png" group-title="CDN | ENTERTAINMENT",Zee Tv Uk
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXXJ4XXkYiubcQErl_ymHZ4/m3u8
+#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="Zoo Moo" tvg-logo="https://amadertv.top:8880/images/325a118c0b10d80f420d50d730fb4fe8.png" group-title="CDN | KIDS",Zoo Moo
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRB6eL6tzY_XI9guPWBnDqA/m3u8
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="CDN | MUSIC",Zoom
+https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe-NBRJHt_lol0COxhQB6tU/m3u8
