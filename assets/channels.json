@@ -2,11 +2,8 @@
 "channels": [
     {
       "url": "https://www.youtube.com/@somoynews360/live",         
-      "type": "web"
+      "type": "stream"
     },
-
-
-
    {
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",         
       "type": "stream"
