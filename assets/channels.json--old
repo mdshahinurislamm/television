@@ -1,0 +1,1664 @@
+{
+  "channels": [
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSAZTfnUZJy4FU3pXs1oCY0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdiIqg8oZ1f3j87UwNneuWw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYOtJhxT0DJKcT4VYrOAwkQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY3U0zsGEkl11Vg-E5Wa128/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVWArAALO2y00hZyHrsx6N8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeo5QVt98TRH0VqqNIAbAPU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZamKvc9yKcDAvKHc4Lo5Eoc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfOGgtisnvHLSraHQEHisL0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf-qq0iYiwDfHceBrei4isk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZX66xRSpabXPF9ii18-WQMU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfl7DkucTavHTbsRJJWx_o0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe2_37eT1af3zlD86tI0KA0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQt_ZT2-BLa1vv28TjBcPRg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUwCbc6D7l_OAGe1jvbaHKw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaw3TfcvAu3Jf3i6AreDqHo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYxU5_lUYZvfk0sn2XX9fQU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZayUJ2xjXUqf8IbzIs3ozkE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRcq6NQlYQapT3usid2uDV4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZaYGEkm5e0ElUrvjz_h1FQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdBc4crp5wUxCAgzw21PjXg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjUhbjR8zi1uHH8R-zo6fE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdW69_7Ce6eCOq6_VhfXDak/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSINBlbjECKg82_RBGjxNm8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQI_vN2RMTomd9fCJtA-PFM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTUUaxolEllv75dUEqG4xYM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSU0IzAqcxS0WHxmcNjYxAY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdvXgnFVNhGPymdzC1byl5w/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSR7nLT2Kwsz34JX5AAmOoc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaj_LkgWaJBV8BwOTuqgMnc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDTnmVIS0DUdbFdcVY1bmU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZceYtDLt2qiC3kr37xSAjos/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbPDIoTB99QED0p7f2206Zs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVeqDz6DbZ9NGmKF1Fl8dWA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY4fMyL6V2TRiHZxMHa9XRI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYjb2dizVK_dNSLJSeXPHoo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfaTO5ICMm_DfCLoNEyrnoA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXwCRQsUhiiRwn2NOIUy-5g/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWVuonwwMzIK1Dyz9BZDnMc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTWL7ITNmCmCsoOk4qR-FlQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVARTS5nCh1141uOBThSpaw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYbNapWs2DFZhWcxA9ctqzc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRu7_Tcxs47sKldXtamYxck/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZRsZe8vgRkA80w4juUHysk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT7NUlQY7BJt5gUcQsdHlXo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVeISgqMDtZkLOmdHR7PbNY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYnmzNgFlAhFB8xC4yDXKjQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUxZOOgaXrlSyNrER1jgUU0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbz5JVeqHN3BA24bavrUvmc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU5QNrTMDcn7U48zICH8eKw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZewzol4XzTOQmoDmYymTDn4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVae_9CQeK-QIpFgeHP9zBA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9YJEcLuALB8kcrQsqRt8w/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeNPJB4-pIRYGFL1jnBw-qY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQVkYOxPE8Wp3b6lrNBulAM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSn7hXToA7Y7ioxlrHmPd2I/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaA78N6VT_2aoI9TpZAg1CE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXjEeHO8CMCCVsZ7BQoh6DM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXGd22jYUXT7013VagDiJS8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVZGtJ2gUtqbljNjRsM1ZQU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcbLyC7267PJvHxhrsepS9g/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaQp87UgYdE2R8pbkw9vTXo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZftyvfzD1ynpFLXy48yvzsE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe6PbiWcwo03HFBhIJpEQzA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcdrS7JctYSmG-iOGB3deso/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAXiJFWFkxz24HAcTgxptw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZLW2RZoKNdFd8bcGXSmwPk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWLe_cGHk0iAMJPEVvAwju0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZacmk-kTl6LPydleRMfDeMU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZczlEadPj7l9xpmnOG6VqnE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQScjavpopSRsLutpYPgSIU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZDlYi9ADxVSfISGMAqXDM8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeTJ97ZQQGLBpDbM1e8YCpc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfqyh-9pjAoyBJizEBYEPeY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfgq8CoktI8LbhoBvXj_4aY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZavqAISX8DPE6HsS4BOOtTU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ0TJIelBq7mPMQvhKcVjRQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQZFPxFBNPaZcDZc6driUKQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdGAhkyrlG3A5BMJvxVT0_Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXwd6Wb9OL2AsVX_rsKBnNU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYd-H--v_0aKEscX6K09W5s/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeWdxSPtKZPwXl1lf7T68l8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfguKisH9ORtOwT0bi8Vo4k/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUXGvBN9ttz-CIcuLAGDwaw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS4aXNe3OStpYcQj6EJA-Xs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSgMCjeB9Oab5RXiC2yBb7Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQsFvaCVudVQ9piYOqmpEnA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcGRkKIRrMYS5QgfrIYMofk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeQHCR__ujq-9DcP3z4Xyc0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrAIImyJR8l58ob6SnbyAs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVGCyFCTVtVdaQ4FLXOcKww/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYaWoUc9AuyEq1emCO60YcY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRNgB7KjR6pWjqcTcXuhnqU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbVAmvQI2znSSlkqIC_Mna0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb4N_d3WgN_Ol1bYMhMJuIQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdrFPYjtf0fdy44egVqjL7s/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQZImz73cSWG7LGA_INPCpw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaegmQsA2Lp7dlSc_GL3nXI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQkUqqshk3zbG3q_7mzKyos/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUnp0tADXdfbVZlScmIXjV8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTnPNPuyOxEopfmDFItlaSo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9FKl-K120K5q4B7Cqsm-Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVDZKNmko2ZClBf4buRqcKY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcK5QRfflnSCeItqlgp19RE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTFEeQheTFQdYGb4xM0VU-Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZenMHxWdki5Xo2UW73BL6as/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT9TA-qhEfDEWWCTC4VLgTg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTIsZSs7nD5IubAAqIXFhyg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYYxx-Kf3HeLYFpgA8APi7I/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR1u72vh5KghjjoH0BQuqL8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUY_n69sYRDFhygBDf06N0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQyBEAAcMpArjB2ReGdnloU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTlIual72SGl1cvOKp9wqWM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTyUfzpwoUYZl9X8ble_R9o/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc9u9O6hyehEjTB90icSaXc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTi_brqO3-LHA2psNrDxn2Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXBZ2sFObgVUg2tlHzYIfb0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWpWugSR92NLsynXFpJTyBw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWGTCWthdXAdy6v8DNDYdX8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVpBnAwDneFbK8ge53H2Bo0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUsDGOlsPDMV7Pb1R83FbZc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYIHUefASjwJUgSEjEAfIBk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcJnl_vnP0SzRm-A3BfWRu0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbfcXeAiQ6Cze7G19DdhQQk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWWx8Uh41eYdD4i737ggsgQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf5RVE1ShJbGMJTwZlh98D8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfbjuWYr3YgUaFyEWFn1dMA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUC6DzhsUgrkVOcpQ0L-Reo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYbXfGrjavPb89iFv7vUDTU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY5v-brMBG7zOYe1TCWgOfk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeRQtMOz7N5k98Lg7IuAn0U/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa5SkPzS-DCfq1nZjKHMjls/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDDPpd8LphoHdjq5-GmH7U/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVjlb-7ydp5S7FRtSf6XurQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR0Ju-TQv9O1fQy4T4wozNA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZiVChyLRy_WRJG-BlLnR9g/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVmYgAQpIFMA-X73MFoE5k8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc8pxH-cPzFbOVbBksR93tc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRnkITpabBtBzDXSEkmFzyo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaWbOyZRNGwY5Ap13gdwsa8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUdeB0MvzX6AyZR67PAeFvU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZViclr7DWDbl4dPTX8nFrEY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjF-JiNiBZONa2z5gOwT8Q/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR67SnWyQg0U8VDwoK_bmR0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfBdTeQmG4ta2_EoN4QBJls/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZanyuzEERS5GqwEnutGwRvM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVMqN7BNDHkVcrGpDyVHUpE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVEknEeCnjjjP2a2LBC9HQc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYWpC7tq2rzgQp9BhQfbCoQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc7GqmPgi3za6FG8wr04x0A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYRqsAFsK7U2vHpGmtNomT0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW-TFNCux7rMT6BOPR-YXXk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZficEg0cFv8KsrONaZQGdkM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZDaethuMAZy3a1TR2lpFfc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRnV8FHI9E1lINsHgqbM74o/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfh3CKsybsFe6fuK7RxLXSw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcqxZyPvPO4zJcTIIdIIxfk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRSm8sYoku0ild6TqJ46B0o/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdx-U5CqJetTbEv1V5F93B8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbAkB8gyyELEjyb1AcGft70/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa6jE1kSJIWVVSDs1-lgfqs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbOjhFJGdtOBuetG8JT7eds/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRZaQLLQhwGExAz5TbLbtKc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYvxxQg-Tv-PmGNC6Pv9sYY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTd4VO64tU0Dajo_dzATjKw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQUnKBj9EZaF1qielLGjCIM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW5yaZ3tYYz_NAUjsb30XMQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRpqkKe5qD5XtwevA2z07L4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXHb1SDRzD8JKlQSUq2D_j0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcSlxwpinzR8JLMcPV8Dz6w/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXuNlQCbqNWBsihX3NZhCG0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTipYp09TTXchegVlt_xS1A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZShbsyqBbC3htV1kE4Xkwng/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXe5t3hdAIWvZTsOSNWVlUU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQ_g686w4ayHIuhUo7xZxlQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfmYjW3UN0mFvO8SjiuWcEU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZX81waYcl4cwXVy8OKlIAcY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa55AB38i0wsQWCKH5pos5U/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbyKqTWWau6WyFHCTkhxNTg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa_m7zmTQQAfCPdX_HVv3vA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYaG5bGVgTEfb_tn0dk-YmQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWGUAxzPq580MBiTcj7g9n0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU3Zd1fywOOjlZCVc-IhVRY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeGidgIEzJkWOViGxnkT5f8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWUYy4n1BY9FqzPCNYJdJQ8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZagUTXJ6ZeH-LGeCbxyQKR4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVh9GOmE90rgzB0ncn8_tBg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ7ow0ThuJjkNWRlgzezvDU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWOZxjw8WIZ0kFSB2Xa00sc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYtpp2STuo_g96QKlIcFQvc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSwIZPDbPZ0bWYmGfKBNeNU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVi13VoBmtdExw37kKvHOtg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdelMG69YfrTkncNjLJGZTo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTffhwad60EP4rmFYg9uZjs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS7wAMcAyoPV9XKuVANyYrM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeTqDGmIhNP3QZvbsTfo0Xw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXxj74DzvuvFLvzXSRbexe0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVmcxYCsRIVQUGqa3AOH100/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQX0l2ju50v_7ed0rVn-gcw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcvKuL_ymY0Xt03StW3DaNs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY1EA5URiF2JDvatOD_jplU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAkuzZixavR0I110H7cqD0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbiFaHID6gbyYrT1RNc-Vts/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUJ5pG0pLo_1EDrfz5PRD-M/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSSZ43JHjrEiU1QO_jg6HwA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQzVe8581OAirN8slH_hT4s/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWlgnVetDFovgamz4bl2NTM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZarpN3Bt-Gkgj3qW-eIaH4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVMQqyEFAFzYAy8E5z5XdX4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYl3lK9m7cHqbSx-GKQuZ9A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZflabi3frA9X_dZXT74bd8s/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb_VjBDhmX_c83v4c8M-qy4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSdXeMv5xSEs1lLtZvGCvUg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaYG_zxWqpbe-v6qysbC0as/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTLEexX2O4P16W5dNyhYU8s/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb2ZSJNyhq9ygnW11M6wEaE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfkqLHZu7_hLzJ2IB3ecuKI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVNu8jrv_Djb7zO1_NRU9UI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdiD6n3x8uhiXp7Lr3rW8gM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdSaQrlrZwlkz9BN54WPYPw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRAU1TExAbPoUpWoaIHUNCA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWyJddE-Du5CCWMWTr-fQgo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbXX4CyADtiYsBWxp2I1qh0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQdrKubUdWRKwrgiMimrVro/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUKjjUX_N5TNfHzlf1G5d38/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa048qg0Hgu2ui8HDpva85o/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS_Y0OQdFgB2T_v9pSmjNRM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZa_E1IJy3GY4-P2c3lCURkw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWwcw4AxP9XjPPdQE9vm2Mc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQLefJFGCssOSnc3s3vKp3w/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWJL5ik8qOywApTis1Lfyv4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUgtTx9hjhrwQ-oE0NjfTkA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSUB2IVhHwriMeEoJmyXxzA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYHXsWiOaVwQD2vvDFtfoo8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcJeX0mWfpeZapLoIt646tI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdIQKinnw-Gm3_hggm0ZnbQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS6xVX3-00JdQIAKG9gZB-E/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcDCuGOXiYIA_thUFFjLO_A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTHyboe7O8uIVBlyAkBDYNQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcGni9Jm7aJ1bX5Tceaoq7c/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVdsuGbms3qjyuC-QwCa_C0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcmPeGMtlNNYwYALCs0L8TQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSUKh-rBcLVKGaQ1A6MhuHk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSQdiR3VFuAQmU73dTH16v4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZedW8_DINy9jtVXklvEMWrg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT1Hw5Flr2MVjj3G04zJxPk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZULK8Iy_fQWJ8J7_JKpiJRs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQh3yMwSHEN9uBbwdrxtt24/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTI7Mh5jDHZcLa52jOiyGPw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUbnvcETgmKc4d_Zg4fvWqI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc-da3rttFvJ29GVD04pGrE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZezvnuCI3i_OIXe_8_jWw1Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZef8Fky6n5qitKmhOM8toGE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfat2RQOzuefMLFaOvzeozI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf1OuA3e-be8BnESvHfPdu0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc-h3NKEOfJkxh0GCAV1RT0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUlGip4Ph4ZET-eXnwTvpT0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZIndDxZgDwTdtN10wqXwJs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUEqxzrqjdlgI3G2tV3lGB0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZT-NDnNPUPs0Hla8R--FgjA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfjSMYgyxOMoxf6ckt5HjPI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZV-EcSVE8sZ83aChrOJjaf4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfirxcmLJQZtWrWDaVeT4kM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaN6MiFbAtYSruuBNP7xq1M/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbnodsDVgeaD5Tmzsc1vBQc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZagls12cIvG9vSq8ifutR3M/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSK9IMSeWlfOIqeVBrrLfwc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSy60crNRurjh0TU98WFhvM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQXgK0gnpSCjLVHakg-C-uQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQYnbERq5o0pVpaC_Toyg1Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRG5ew-m_W8A_I7wBNntKKg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZde09mOl5u6PvKZa_WlqvrI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZR8db53emq_ge0WrAtklmsM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSbt-45PSOaEVIcpyzs8PV0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZBPj7288SjtN9p7kVqZASo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWiY0fpGm5_f_7cRprs0QwQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQKdC588ntLaJaYY2uT4f7c/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRSeSt7v-7cUWJECBPdloVg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZepyFIZPFW8GrcoWU9EVOpI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfj-c5AcjLvXrFVae_vOP5g/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZY-ABx4HxlnONlsN9wSkXo8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZemx3psUDqh2iDq0rXUN_fk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAVfCZ3KRyatWshTu_8EIU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQCTm_zxLffiZr701WDqZEA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXMzk_65OHIs-Bj3DSevzaQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZYOcnYgah5tjZ0wdwEjRGA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVm6OJfveFzNlU38LN9kjKw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUsKmn_HRTVCXijMg2Sq5gw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaKhSqifC5T3RMpXspo-NVo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRIZ2zCqlqrBgLqY8GVvrnY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZsfvh_bO5omFdv8PIMGtBQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTzgStKLho6QcVv1-csfv2U/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbyrvfnAFKpkytOgOOQfXm8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeVJ9ET9VPDkezfqdJ-eCWs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQjw22Rha4lYxzbba75u6eY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVSJOQoThBPtFyA5yHiLatc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrIgfpzMUAT3e-6fBlQcZI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTyGpt9o3zGjqfdXAR7g9Gc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcdHB6yLGovnv7w_MnMLWGw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYvJtWWTwS_nj6lzoLbQVMU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVUBUKYpYfWztr3CacMqYSw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXIcq640v7ochoQFX7Lv_tk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf5vf-Q82Q9PkSqpKNVQTGA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbKOcwQHADwRhEZZxIS_Wd4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUc8Wwz_mQZrAyGjE-1dPE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdbTT7EW824xgzRxO0yO3mE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaWBw9MsTsGfJ145XcIOmmU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS9nChZt1hQTijeRdCW1I44/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSkcojj_otPiHOEPsI3Wvow/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaNdi0iTPFPxlfzekbSAJhk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZauiqfxnull9I32L02sj6ME/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZUCOyTO6DK4hqgKSNUeBGo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRJYsmRgSWJwWqwnLgSJTXY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcFSzFvK30NoZ3OULhLi4ZU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcl02DEecLLRQpI2L0Ulqnw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcFAEebHDXLaz0TIFtoa-IU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTA7mEek0kOFPyvAZ5CJ3-A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVfgLsmH7vYEn4-vyK1Ares/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVdJJv0DQfgBf-i5WxAktKU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcr5oqiotKzgiKOm3yl8Xb4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ8Ljy3pulZKQGCYbOzKHZM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZY_oYdpnVo5Ed_5W7fFSZE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTXPdk8U7lixo5DgPFJ9Ppw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZd4x68xtJziDB0m12Ba_4Mo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQresAYr60ByY3Bcj_P3FGY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVEwxV3jThB1dxkHb8GLbnI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcUvG-ssCvh5JeDL4Nv1jRQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRjXtgpq2Oicvt3JEmm4iwc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZclx_8fJMVzLAabiWUslX-0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbt6OIFNRlyMFx49G94oKks/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZ3g7VRnKj8igC6OEEVp-zw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWH5PDm9CbVJwP8QWVu-rt4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZU32DRE4oaItKrdeMsYPHP8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbZvbYGLcr3pUEo2hozBkzY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWvbcSi44kkPlTns5ZxXPO4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb0hPAuKBcC5yawfTSwJ03w/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZb5JiJIUGjvL5bXBZLdaZE0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdFgN9Vn98ruy2aunzg4PuQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVIbEuNeFwvRqXqcrUPztlI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVsn-llvmziEDtDNSbFvI-U/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbiO3W1h8DHz-UXy6zbnQUc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZc_Ti6ZLjxSFEJccgnLwOiQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZeRi7BdIlDzCTGTt5PI4aCE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZd0AnkrHLKYkzDeMPquN8ok/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVFF7BGQZuM307h2BfxiFWc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQD-E3epIrJ05hrEh1QFVc4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYRtV60wh3LSRWGBOdIto9Y/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZalOr_JVygediEmhVLeayf0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXvgf2HoNnYHmorcK39jsqE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbebx4E7bMPAQu_seYosLk0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRY3A-Yu1AZ6CBzfuYRA1tE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZckPyDjp1uyNfgr14ZDkYCU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXcipgQgOtUjQbPFmlb5mfU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbPqeYaCHN9szBMw04aUnW0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZREojh21Z2pVHoRTRoroF2g/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZarwlMcXIa9byjraky30Z7M/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdYKkAUBDyPZTZaZCS_T024/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS7aK7Hh4UPURo53VWpBja0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSPuWIZArkPRN3DsWPgnnqU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfdrcOUUxrOt_deMk7TfdUI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZVg316xVHrA49jT0rMy51Hg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdRzgMDQsJwbS2TeIUw5460/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdtEAtiuEU7jbXRPOpHO2A0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbgFYcgOZyo7aSWTiUp3tuE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfY2V6h0_PjvoynNsguVQjM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWfqDk_9wAvwxenddv8JHBI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQYZ1WubtgGl6GXsxWVAHbU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZjQKv2O0zHlf65cJib4Cz4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXJp6oLZ-kqvf_TXscjRZ2A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaaciFRx4Zv744s4w-UdN-0/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcYjUJ1_SdyCCAoa3firqZs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbM5SIQRPWjVrxGz4xuXUbg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZOyZotKfz3MBF-cR235joA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQuRhxuft3Wd9jzJ4yAQIjQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfPNLwjAGafXl0bTvyHdMME/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZdFsnqcC1CmwKq3wNv5X0Nc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZarXd1zfNTb44KEyAFLB-U4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrtcyp3NYh400MpnWvrgso/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfaui6txs4EpHQV-JN9OPs8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZSII1-kSSQU2i7Mp0I7iEUw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZYLSJ8lfQ2BkZ7hypRZhzKI/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcrApjhwx6AY-lAVa5gjRDY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTsmsw2_nL394R2PBMjYmwk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZS11tBtS-iYNHKSxDYbsR20/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe8b3k11P1XVb6DVdw3YIrc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRcw12aaxyBAMdXRUbqzgSY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQ3L-v22D8seJqRZxG2i4ks/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWuMsCAOM5NrJFhWO46wmOo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTTx436QmZLF5EKnikn7VLQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZcQ96ERcxS86S6tylKrOVJU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZwRU1HKEl6spIg4om6jGJs/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWeG5mK9IFxv1XMZPnj8vho/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe89wFqOoz8dFMyOX7u2T7c/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfIlhV3voZNu9w3jz4C2tGY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfa8GHSFFu3rWFETth3zcYo/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWfNAepvKVT4XDgtmXU4k3A/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZWAv_HHYy8SgcjxKv1BdPKk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZW06cG4sBvrYbd42S_YYpLE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZf926efocFJ41qvtm5ZnYb4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZavXUkX81eaYTld9RVsU4kA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZTwFf3Z5H2i2yBbIAFJ2IU8/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZQCy88CzthpV5bzjO-Zmpuw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUzHaKgGqCClKybaGsNpZJY/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZfxs8AglSoAavcHREfW3PoM/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZbdkdQUC74Si19WlKeMduVE/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRn_cUFpitK6DYhZxuAgCAc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXYedPZ6CaLxKVq3bSteceQ/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZah7nG0LDY7ADBaPvYlggDw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUKTUv6Fej7zPUp4SxyM2Uc/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZaS2MSq8A_BuOli1enellMU/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUEIgeXhKIGqUmp7_0E1CGg/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUuyf6lHpVNFR-_M9os2OLw/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZUwUJOT8J_cb9PWtwMjPWYk/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZXXJ4XXkYiubcQErl_ymHZ4/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZRB6eL6tzY_XI9guPWBnDqA/m3u8",
+      "type": "stream"
+    },
+    {
+      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZe-NBRJHt_lol0COxhQB6tU/m3u8",
+      "type": "stream"
+    }
+  ]
+}
