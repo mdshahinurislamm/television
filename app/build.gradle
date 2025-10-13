@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.netflix.ninja'
+    namespace 'com.netflix.mediaclient'
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.netflix.ninja"
+        applicationId "com.netflix.mediaclient"
         minSdk 21
         targetSdk 36
         versionCode 1
@@ -29,6 +29,7 @@ android {
 }
 
 dependencies {
+
     implementation libs.appcompat
     implementation libs.material
     implementation libs.activity
@@ -37,6 +38,5 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
     implementation libs.exoplayer
-    implementation libs.libvlc.all
 
 }

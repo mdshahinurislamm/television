@@ -7,20 +7,13 @@
     >
 
     <!-- ExoPlayer -->
-<!--    <com.google.android.exoplayer2.ui.PlayerView-->
-<!--        android:id="@+id/playerView"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="match_parent"-->
-<!--        android:background="#000"-->
-<!--        app:use_controller="false"-->
-<!--        android:visibility="gone" />-->
-
-
-    <org.videolan.libvlc.util.VLCVideoLayout
-        android:id="@+id/vlc_video_layout"
+    <com.google.android.exoplayer2.ui.PlayerView
+        android:id="@+id/playerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#000" />
+        android:background="#000"
+        app:use_controller="false"
+        android:visibility="gone" />
 
     <!-- WebView for YouTube -->
     <WebView

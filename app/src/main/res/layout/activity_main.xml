@@ -36,12 +36,12 @@
                     android:layout_marginTop="10dp"
                     android:text="All Online TV" />
 
-                <Button
-                    android:id="@+id/btnBiliTV"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="10dp"
-                    android:text="BiliBili TV" />
+<!--                <Button-->
+<!--                    android:id="@+id/btnBiliTV"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginTop="10dp"-->
+<!--                    android:text="Bili TV" />-->
 
                 <Button
                     android:id="@+id/btnMySite"
@@ -54,6 +54,7 @@
                     android:id="@+id/btnMytv"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
                     android:text="Home" />
 
                 <Button

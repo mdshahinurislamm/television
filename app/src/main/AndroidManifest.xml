@@ -32,7 +32,7 @@
             android:screenOrientation="landscape"
             tools:ignore="DiscouragedApi" />
         <activity
-            android:name=".LiveTvActivity"
+            android:name=".ui.launch.UIWebViewActivity"
             android:exported="true"
             android:screenOrientation="landscape"
             tools:ignore="DiscouragedApi">

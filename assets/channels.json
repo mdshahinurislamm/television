@@ -1,9 +1,5 @@
 {
 "channels": [
-    {
-      "url": "https://www.youtube.com/@somoynews360/live",         
-      "type": "stream"
-    },
    {
       "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",         
       "type": "stream"
@@ -24,7 +20,7 @@
       "channel": "NTV"
     },
     {
-      "url": "https://amadertv.top:8880/play/GxjenwZXE0Ybu-xJfk2RZZaYGEkm5e0ElUrvjz_h1FQ/m3u8",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
       "type": "stream",
       "channel": "india news"
     },

@@ -1,4 +1,4 @@
-package com.netflix.ninja;
+package com.netflix.mediaclient;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -24,6 +24,7 @@ import com.google.android.exoplayer2.MediaItem;
 import com.google.android.exoplayer2.PlaybackException;
 import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.ui.PlayerView;
+
 import android.media.AudioManager;
 import android.view.MotionEvent;
 

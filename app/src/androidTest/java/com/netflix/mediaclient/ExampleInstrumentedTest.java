@@ -1,4 +1,4 @@
-package com.netflix.ninja;
+package com.tv.television;
 
 import android.content.Context;
 
