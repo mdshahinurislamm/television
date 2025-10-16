@@ -83,17 +83,17 @@
     {
       "url": "https://www.youtube.com/embed/",
       "type": "web",
-      "channel": ""
+      "channel": "test"
     },
     {
       "url": "https://www.youtube.com/embed/",
       "type": "web",
-      "channel": ""
+      "channel": "tet"
     },
     {
       "url": "https://www.youtube.com/embed/",
       "type": "web",
-      "channel": ""
+      "channel": "test"
     },
 
 
@@ -111,11 +111,13 @@
     },
     {
       "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
-      "type": "stream","channel":"ndtv24x7"
+      "type": "stream",
+      "channel":"ndtv24x7"
     },
     {
       "url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
-      "type": "stream" 
+      "type": "stream",      
+      "channel": "EKHON TV "
     },
     {
       "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
@@ -164,11 +166,13 @@
     },
     {
       "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
-      "type": "stream"
+      "type": "stream",
+      "channel": "EKHON TV "
     },
     {
       "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
-      "type": "stream","channel":"action boliwood"
+      "type": "stream",
+      "channel":"action boliwood"
     },  
     {
       "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
