@@ -20,7 +20,7 @@ import com.netflix.mediaclient.ui.launch.UIWebViewActivity;
 public class MainActivity extends AppCompatActivity {
 
     WebView webView;
-    Button btnMytv, btnGoogle, btnYouTube, btnMySite,btnBiliTV;
+    Button btnMytv, btnGoogle, btnYouTube, btnMySite;
     FrameLayout fullScreenContainer;
     View customView;
     WebChromeClient.CustomViewCallback customViewCallback;
@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         btnGoogle = findViewById(R.id.btnGoogle);
         btnYouTube = findViewById(R.id.btnYouTube);
         btnMySite = findViewById(R.id.btnMySite);
-//        btnBiliTV = findViewById(R.id.btnBiliTV);
+        //btnMydb = findViewById(R.id.btnMydb);
         fullScreenContainer = findViewById(R.id.fullScreenContainer);
 
         // Configure WebView
@@ -115,12 +115,10 @@ public class MainActivity extends AppCompatActivity {
             finishAffinity(); // closes all activities
         }
     }
-
     public void btnMySite(View view) {
         Intent int1 = new Intent(MainActivity.this, UIWebViewActivity.class);
         startActivity(int1);
     }
-
     public void btnAllTV(View view) {
         Intent int1 = new Intent(MainActivity.this, AllTv.class);
         startActivity(int1);
