@@ -1,12 +1,12 @@
 {
 "channels": [  
     {
-      "url": "UC0V3IJCnr6ZNjB9t_GLhFFA",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UC0V3IJCnr6ZNjB9t_GLhFFA&autoplay=1&mute=0",
       "type": "web",
       "channel": "test"
     },  
     {
-      "url": "UC8NcXMG3A3f2aFQyGTpSNww",
+      "url": "https://www.youtube.com/embed/TdwhCOFh9OA?autoplay=1&mute=0",
       "type": "web",
       "channel": "test"
     },  
