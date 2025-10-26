@@ -1,12 +1,23 @@
 package com.netflix.mediaclient.ui.launch;
 
 import android.annotation.SuppressLint;
+import android.app.AlertDialog;
+import android.app.DownloadManager;
+import android.content.ActivityNotFoundException;
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.Settings;
 import android.util.SparseArray;
+import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.View;
 import android.webkit.WebSettings;
@@ -14,10 +25,12 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.activity.OnBackPressedCallback;
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import com.google.android.exoplayer2.ExoPlayer;
 import com.google.android.exoplayer2.MediaItem;
@@ -30,13 +43,22 @@ import android.media.AudioManager;
 import android.view.MotionEvent;
 
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
+import java.io.File;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+
+import okhttp3.Call;
+import okhttp3.Callback;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.Response;
 
 public class UIWebViewActivity extends AppCompatActivity {
 
@@ -60,11 +82,23 @@ public class UIWebViewActivity extends AppCompatActivity {
     ArrayList<String> types = new ArrayList<>();
     ArrayList<String> channel = new ArrayList<>();
 
+    // 🔗 Your JSON file hosted on GitHub (contains latestVersion and apkUrl)
+    private static final String UPDATE_JSON_URL = "https://raw.githubusercontent.com/mdshahinurislamm/television/refs/heads/master/assets/version.json";
+    private static final int REQ_INSTALL_UNKNOWN_APPS = 2345;
+    private long downloadId = -1;
+    private ProgressBar progressBar;
+    private AlertDialog updateDialog;
+    private String pendingApkUrl;
+
     @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_live_tv);
+
+        //current version check start
+        checkForUpdate();
+        // current version check end
 
         playerView = findViewById(R.id.playerView);
         webView = findViewById(R.id.webView);
@@ -438,4 +472,181 @@ public void onBackPressedn() {
     startActivity(int1);
     finish();
 }
+//Show an update dialog--------------------------------------
+
+    private void checkForUpdate() {
+        OkHttpClient client = new OkHttpClient();
+        Request req = new Request.Builder().url(UPDATE_JSON_URL).build();
+
+        client.newCall(req).enqueue(new Callback() {
+            @Override public void onFailure(Call call, IOException e) {
+                runOnUiThread(() -> Toast.makeText(UIWebViewActivity.this,
+                        "Update check failed", Toast.LENGTH_SHORT).show());
+            }
+
+            @Override public void onResponse(Call call, Response response) throws IOException {
+                if (!response.isSuccessful()) return;
+                try {
+                    JSONObject obj = new JSONObject(response.body().string());
+                    int latestVersion = obj.getInt("latestVersion");
+                    String apkUrl = obj.getString("apkUrl");
+                    String notes = obj.optString("releaseNotes", "New update available");
+
+                    int currentVersion = 1; //BuildConfig.VERSION_CODE;
+                    if (latestVersion > currentVersion) {
+                        pendingApkUrl = apkUrl;
+                        //runOnUiThread(() -> showMandatoryUpdateDialog(apkUrl, notes));
+                        runOnUiThread(() -> showUpdatePopup(notes));
+                    } else {
+                        runOnUiThread(() ->
+                                Toast.makeText(UIWebViewActivity.this, "App is up to date", Toast.LENGTH_SHORT).show());
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+    }
+
+    private void showUpdatePopup(String notes) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Update Required");
+        builder.setMessage(notes);
+        builder.setCancelable(false);
+        builder.setPositiveButton("Update", new DialogInterface.OnClickListener() {
+            @Override public void onClick(DialogInterface dialog, int which) {
+                startDownload(pendingApkUrl);
+            }
+        });
+        builder.setNegativeButton("Exit", new DialogInterface.OnClickListener() {
+            @Override public void onClick(DialogInterface dialog, int which) {
+                finishAffinity(); // close app
+            }
+        });
+        updateDialog = builder.create();
+        updateDialog.setCancelable(false);
+        updateDialog.setCanceledOnTouchOutside(false);
+        updateDialog.show();
+    }
+
+    private void showMandatoryUpdateDialog(String apkUrl, String notes) {
+        progressBar = new ProgressBar(this, null, android.R.attr.progressBarStyleHorizontal);
+        progressBar.setIndeterminate(true);
+        progressBar.setMax(100);
+
+        LinearLayout layout = new LinearLayout(this);
+        layout.setPadding(60, 60, 60, 60);
+        layout.setGravity(Gravity.CENTER);
+        layout.addView(progressBar);
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Update Required");
+        builder.setMessage(notes + "\n\nDownloading update...");
+        builder.setView(layout);
+        builder.setCancelable(false);
+        builder.setNegativeButton("Exit app", (dialog, which) -> finishAffinity());
+
+        updateDialog = builder.create();
+        updateDialog.setCanceledOnTouchOutside(false);
+        updateDialog.show();
+
+//        builder.setPositiveButton("Update", new DialogInterface.OnClickListener() {
+//            @Override public void onClick(DialogInterface dialog, int which) {
+//
+//            }
+//        });
+        startDownload(apkUrl);
+
+    }
+
+    @SuppressLint("UnspecifiedRegisterReceiverFlag")
+    private void startDownload(String apkUrl) {
+        // Enqueue download with DownloadManager so it handles downloads reliably
+        DownloadManager.Request request = new DownloadManager.Request(Uri.parse(apkUrl));
+        request.setTitle("Downloading update");
+        request.setDescription("Please wait...");
+        request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED);
+        // let DownloadManager pick location; we'll query it later
+        DownloadManager dm = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
+        downloadId = dm.enqueue(request);
+
+        // listen for completion
+        registerReceiver(onDownloadComplete, new IntentFilter(DownloadManager.ACTION_DOWNLOAD_COMPLETE));
+    }
+
+    // Download complete receiver
+    private final BroadcastReceiver onDownloadComplete = new BroadcastReceiver() {
+        @Override public void onReceive(Context context, Intent intent) {
+            long id = intent.getLongExtra(DownloadManager.EXTRA_DOWNLOAD_ID, -1);
+            if (id != downloadId) return;
+
+            // Dismiss dialog UI
+            if (updateDialog != null && updateDialog.isShowing()) updateDialog.dismiss();
+
+            // Ask DownloadManager for the content URI of the downloaded file
+            DownloadManager dm = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
+            Uri apkUri = dm.getUriForDownloadedFile(downloadId); // <-- important: returns content:// URI if available
+
+            if (apkUri == null) {
+                // fallback: try to get file:// path (less reliable)
+                Toast.makeText(UIWebViewActivity.this,
+                        "Download finished but couldn't access file.", Toast.LENGTH_LONG).show();
+                return;
+            }
+
+            // On Android O+ must have permission to install unknown apps
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                if (!getPackageManager().canRequestPackageInstalls()) {
+                    // open settings for this app so user can allow install from unknown sources
+                    Intent i = new Intent(Settings.ACTION_MANAGE_UNKNOWN_APP_SOURCES,
+                            Uri.parse("package:" + getPackageName()));
+                    startActivityForResult(i, REQ_INSTALL_UNKNOWN_APPS);
+                    // Save apkUri somewhere accessible (field) so after RETURN we can proceed.
+                    // We'll store downloadId and ask DownloadManager again in onActivityResult.
+                    return;
+                }
+            }
+
+            // Start installation
+            startInstallIntent(apkUri);
+        }
+    };
+
+    private void startInstallIntent(Uri apkUri) {
+        try {
+            Intent install = new Intent(Intent.ACTION_VIEW);
+            install.setDataAndType(apkUri, "application/vnd.android.package-archive");
+            install.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            // Grant temporary read permission to the installer
+            install.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+            startActivity(install);
+        } catch (ActivityNotFoundException ex) {
+            Toast.makeText(this, "No installer found to install the update", Toast.LENGTH_LONG).show();
+        }
+    }
+
+    // If user returns from "allow unknown apps" screen, try installation again
+    @Override protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == REQ_INSTALL_UNKNOWN_APPS) {
+            // User may have granted (or denied) permission. Try again to get the downloaded file and install
+            if (downloadId == -1) return;
+            DownloadManager dm = (DownloadManager) getSystemService(Context.DOWNLOAD_SERVICE);
+            Uri apkUri = dm.getUriForDownloadedFile(downloadId);
+            if (apkUri != null) {
+                // if still not allowed, installer will refuse; otherwise will open installer
+                startInstallIntent(apkUri);
+            } else {
+                Toast.makeText(this, "Cannot find downloaded APK to install.", Toast.LENGTH_LONG).show();
+            }
+        }
+    }
+
+    @Override protected void onDestroy() {
+        super.onDestroy();
+        try { unregisterReceiver(onDownloadComplete); } catch (Exception ignored) {}
+    }
+
+
 }

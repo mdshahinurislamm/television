@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.tv.television",
+  "applicationId": "com.netflix.mediaclient",
   "variantName": "release",
   "elements": [
     {
