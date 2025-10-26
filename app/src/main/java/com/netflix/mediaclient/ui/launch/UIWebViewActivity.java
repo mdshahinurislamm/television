@@ -492,7 +492,7 @@ public void onBackPressedn() {
                     String apkUrl = obj.getString("apkUrl");
                     String notes = obj.optString("releaseNotes", "New update available");
 
-                    int currentVersion = 1; //BuildConfig.VERSION_CODE;
+                    int currentVersion = 2; //BuildConfig.VERSION_CODE;
                     if (latestVersion > currentVersion) {
                         pendingApkUrl = apkUrl;
                         //runOnUiThread(() -> showMandatoryUpdateDialog(apkUrl, notes));
